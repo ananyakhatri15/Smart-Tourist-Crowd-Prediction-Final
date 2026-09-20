@@ -5,7 +5,7 @@ import pandas as pd
 app = Flask(__name__, static_folder="..", static_url_path="")
 
 # Load the trained ML model
-model = joblib.load("backend/crowd_model.pkl")
+model = joblib.load("crowd_model.pkl")
 
 # Load destination tourism data
 destination_data = pd.read_csv("backend/destinaion_data.csv")
