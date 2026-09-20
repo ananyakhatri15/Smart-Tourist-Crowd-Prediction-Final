@@ -8,10 +8,10 @@ app = Flask(__name__, static_folder="..", static_url_path="")
 model = joblib.load("crowd_model.pkl")
 
 # Load destination tourism data
-destination_data = pd.read_csv("backend/destinaion_data.csv")
+destination_data = pd.read_csv("destinaion_data.csv")
 
 # Load our prototype crowd-score dataset
-score_data = pd.read_csv("backend/destination_dataset.csv")
+score_data = pd.read_csv("destination_dataset.csv")
 
 
 @app.route("/")
