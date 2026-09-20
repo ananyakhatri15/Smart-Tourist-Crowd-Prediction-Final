@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Smart Tourist Crowd Prediction</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="background-glow glow-one"></div>
+    <div class="background-glow glow-two"></div>
+
+    <header>
+        <div class="badge">EXPLORE SMARTER</div>
+
+        <h1>Smart Tourist Crowd Prediction</h1>
+
+        <p>Plan your visit. Avoid the crowd.</p>
+    </header>
+
+    <main class="container">
+
+        <div class="card">
+
+            <div class="card-heading">
+                <span class="icon">✦</span>
+
+                <div>
+                    <h2>Check Tourist Crowd</h2>
+                    <p>Enter your travel details below</p>
+                </div>
+            </div>
+
+
+            <!-- Destination -->
+
+            <label for="destination">Where do you want to go?</label>
+
+            <input
+                type="text"
+                id="destination"
+                placeholder="Enter any destination..."
+            >
+
+
+            <!-- Day -->
+
+            <label>Choose Day</label>
+
+            <select>
+                <option>Monday</option>
+                <option>Tuesday</option>
+                <option>Wednesday</option>
+                <option>Thursday</option>
+                <option>Friday</option>
+                <option>Saturday</option>
+                <option>Sunday</option>
+            </select>
+
+
+            <!-- Weather -->
+
+            <label>Weather</label>
+
+            <select>
+                <option>Sunny</option>
+                <option>Cloudy</option>
+                <option>Rainy</option>
+            </select>
+
+
+            <!-- Holiday -->
+
+            <label>Holiday</label>
+
+            <select>
+                <option>No</option>
+                <option>Yes</option>
+            </select>
+
+
+            <!-- Festival -->
+
+            <label>Festival / Event</label>
+
+            <select>
+                <option>No</option>
+                <option>Yes</option>
+            </select>
+
+
+            <button id="predictButton">
+                Predict Crowd
+            </button>
+
+
+            <!-- Result -->
+
+            <div class="result">
+                <h2>Predicted Crowd</h2>
+                <h1>--</h1>
+                <p>Select the details above and predict the crowd.</p>
+
+           <div class="score-box">
+              <div class="score-label">
+                <span>Crowd Index</span>
+               <span id="score-number">-- / 100</span>
+            </div>
+
+    <div class="score-bar">
+        <div id="score-fill"></div>
+       </div>
+    </div>
+    <div id="prediction-reason"
+     class="prediction-reason"><div>
+        
+    </div>
+    </main>
+
+
+    <footer>
+        <p>Smart Tourism • Machine Learning • Crowd Prediction</p>
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

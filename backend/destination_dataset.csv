@@ -1,0 +1,1681 @@
+destination,annual_visitors,day,weather,holiday,festival,crowd_score,crowd
+Taj Mahal,6264225,Monday,Sunny,No,No,23.75,Low
+Taj Mahal,6264225,Monday,Cloudy,No,No,23.75,Low
+Taj Mahal,6264225,Monday,Rainy,No,No,13.75,Low
+Taj Mahal,6264225,Tuesday,Sunny,No,No,23.75,Low
+Taj Mahal,6264225,Tuesday,Cloudy,No,No,23.75,Low
+Taj Mahal,6264225,Tuesday,Rainy,No,No,13.75,Low
+Taj Mahal,6264225,Wednesday,Sunny,No,No,23.75,Low
+Taj Mahal,6264225,Wednesday,Cloudy,No,No,23.75,Low
+Taj Mahal,6264225,Wednesday,Rainy,No,No,13.75,Low
+Taj Mahal,6264225,Thursday,Sunny,No,No,23.75,Low
+Taj Mahal,6264225,Thursday,Cloudy,No,No,23.75,Low
+Taj Mahal,6264225,Thursday,Rainy,No,No,13.75,Low
+Taj Mahal,6264225,Friday,Sunny,No,No,33.75,Low
+Taj Mahal,6264225,Friday,Cloudy,No,No,33.75,Low
+Taj Mahal,6264225,Friday,Rainy,No,No,23.75,Low
+Taj Mahal,6264225,Saturday,Sunny,No,No,33.75,Low
+Taj Mahal,6264225,Saturday,Cloudy,No,No,33.75,Low
+Taj Mahal,6264225,Saturday,Rainy,No,No,23.75,Low
+Taj Mahal,6264225,Sunday,Sunny,No,No,43.75,Medium
+Taj Mahal,6264225,Sunday,Cloudy,No,No,43.75,Medium
+Taj Mahal,6264225,Sunday,Rainy,No,No,33.75,Low
+Taj Mahal,6264225,Monday,Sunny,Yes,No,33.75,Low
+Taj Mahal,6264225,Monday,Cloudy,Yes,No,33.75,Low
+Taj Mahal,6264225,Monday,Rainy,Yes,No,23.75,Low
+Taj Mahal,6264225,Tuesday,Sunny,Yes,No,33.75,Low
+Taj Mahal,6264225,Tuesday,Cloudy,Yes,No,33.75,Low
+Taj Mahal,6264225,Tuesday,Rainy,Yes,No,23.75,Low
+Taj Mahal,6264225,Wednesday,Sunny,Yes,No,33.75,Low
+Taj Mahal,6264225,Wednesday,Cloudy,Yes,No,33.75,Low
+Taj Mahal,6264225,Wednesday,Rainy,Yes,No,23.75,Low
+Taj Mahal,6264225,Thursday,Sunny,Yes,No,33.75,Low
+Taj Mahal,6264225,Thursday,Cloudy,Yes,No,33.75,Low
+Taj Mahal,6264225,Thursday,Rainy,Yes,No,23.75,Low
+Taj Mahal,6264225,Friday,Sunny,Yes,No,43.75,Medium
+Taj Mahal,6264225,Friday,Cloudy,Yes,No,43.75,Medium
+Taj Mahal,6264225,Friday,Rainy,Yes,No,33.75,Low
+Taj Mahal,6264225,Saturday,Sunny,Yes,No,43.75,Medium
+Taj Mahal,6264225,Saturday,Cloudy,Yes,No,43.75,Medium
+Taj Mahal,6264225,Saturday,Rainy,Yes,No,33.75,Low
+Taj Mahal,6264225,Sunday,Sunny,Yes,No,53.75,Medium
+Taj Mahal,6264225,Sunday,Cloudy,Yes,No,53.75,Medium
+Taj Mahal,6264225,Sunday,Rainy,Yes,No,43.75,Medium
+Taj Mahal,6264225,Monday,Sunny,No,Yes,38.75,Low
+Taj Mahal,6264225,Monday,Cloudy,No,Yes,38.75,Low
+Taj Mahal,6264225,Monday,Rainy,No,Yes,28.75,Low
+Taj Mahal,6264225,Tuesday,Sunny,No,Yes,38.75,Low
+Taj Mahal,6264225,Tuesday,Cloudy,No,Yes,38.75,Low
+Taj Mahal,6264225,Tuesday,Rainy,No,Yes,28.75,Low
+Taj Mahal,6264225,Wednesday,Sunny,No,Yes,38.75,Low
+Taj Mahal,6264225,Wednesday,Cloudy,No,Yes,38.75,Low
+Taj Mahal,6264225,Wednesday,Rainy,No,Yes,28.75,Low
+Taj Mahal,6264225,Thursday,Sunny,No,Yes,38.75,Low
+Taj Mahal,6264225,Thursday,Cloudy,No,Yes,38.75,Low
+Taj Mahal,6264225,Thursday,Rainy,No,Yes,28.75,Low
+Taj Mahal,6264225,Friday,Sunny,No,Yes,48.75,Medium
+Taj Mahal,6264225,Friday,Cloudy,No,Yes,48.75,Medium
+Taj Mahal,6264225,Friday,Rainy,No,Yes,38.75,Low
+Taj Mahal,6264225,Saturday,Sunny,No,Yes,48.75,Medium
+Taj Mahal,6264225,Saturday,Cloudy,No,Yes,48.75,Medium
+Taj Mahal,6264225,Saturday,Rainy,No,Yes,38.75,Low
+Taj Mahal,6264225,Sunday,Sunny,No,Yes,58.75,Medium
+Taj Mahal,6264225,Sunday,Cloudy,No,Yes,58.75,Medium
+Taj Mahal,6264225,Sunday,Rainy,No,Yes,48.75,Medium
+Taj Mahal,6264225,Monday,Sunny,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Monday,Cloudy,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Monday,Rainy,Yes,Yes,38.75,Low
+Taj Mahal,6264225,Tuesday,Sunny,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Tuesday,Cloudy,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Tuesday,Rainy,Yes,Yes,38.75,Low
+Taj Mahal,6264225,Wednesday,Sunny,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Wednesday,Cloudy,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Wednesday,Rainy,Yes,Yes,38.75,Low
+Taj Mahal,6264225,Thursday,Sunny,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Thursday,Cloudy,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Thursday,Rainy,Yes,Yes,38.75,Low
+Taj Mahal,6264225,Friday,Sunny,Yes,Yes,58.75,Medium
+Taj Mahal,6264225,Friday,Cloudy,Yes,Yes,58.75,Medium
+Taj Mahal,6264225,Friday,Rainy,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Saturday,Sunny,Yes,Yes,58.75,Medium
+Taj Mahal,6264225,Saturday,Cloudy,Yes,Yes,58.75,Medium
+Taj Mahal,6264225,Saturday,Rainy,Yes,Yes,48.75,Medium
+Taj Mahal,6264225,Sunday,Sunny,Yes,Yes,68.75,Medium
+Taj Mahal,6264225,Sunday,Cloudy,Yes,Yes,68.75,Medium
+Taj Mahal,6264225,Sunday,Rainy,Yes,Yes,58.75,Medium
+Sun Temple,3571289,Monday,Sunny,No,No,19.05,Low
+Sun Temple,3571289,Monday,Cloudy,No,No,19.05,Low
+Sun Temple,3571289,Monday,Rainy,No,No,9.05,Low
+Sun Temple,3571289,Tuesday,Sunny,No,No,19.05,Low
+Sun Temple,3571289,Tuesday,Cloudy,No,No,19.05,Low
+Sun Temple,3571289,Tuesday,Rainy,No,No,9.05,Low
+Sun Temple,3571289,Wednesday,Sunny,No,No,19.05,Low
+Sun Temple,3571289,Wednesday,Cloudy,No,No,19.05,Low
+Sun Temple,3571289,Wednesday,Rainy,No,No,9.05,Low
+Sun Temple,3571289,Thursday,Sunny,No,No,19.05,Low
+Sun Temple,3571289,Thursday,Cloudy,No,No,19.05,Low
+Sun Temple,3571289,Thursday,Rainy,No,No,9.05,Low
+Sun Temple,3571289,Friday,Sunny,No,No,29.05,Low
+Sun Temple,3571289,Friday,Cloudy,No,No,29.05,Low
+Sun Temple,3571289,Friday,Rainy,No,No,19.05,Low
+Sun Temple,3571289,Saturday,Sunny,No,No,29.05,Low
+Sun Temple,3571289,Saturday,Cloudy,No,No,29.05,Low
+Sun Temple,3571289,Saturday,Rainy,No,No,19.05,Low
+Sun Temple,3571289,Sunday,Sunny,No,No,39.05,Low
+Sun Temple,3571289,Sunday,Cloudy,No,No,39.05,Low
+Sun Temple,3571289,Sunday,Rainy,No,No,29.05,Low
+Sun Temple,3571289,Monday,Sunny,Yes,No,29.05,Low
+Sun Temple,3571289,Monday,Cloudy,Yes,No,29.05,Low
+Sun Temple,3571289,Monday,Rainy,Yes,No,19.05,Low
+Sun Temple,3571289,Tuesday,Sunny,Yes,No,29.05,Low
+Sun Temple,3571289,Tuesday,Cloudy,Yes,No,29.05,Low
+Sun Temple,3571289,Tuesday,Rainy,Yes,No,19.05,Low
+Sun Temple,3571289,Wednesday,Sunny,Yes,No,29.05,Low
+Sun Temple,3571289,Wednesday,Cloudy,Yes,No,29.05,Low
+Sun Temple,3571289,Wednesday,Rainy,Yes,No,19.05,Low
+Sun Temple,3571289,Thursday,Sunny,Yes,No,29.05,Low
+Sun Temple,3571289,Thursday,Cloudy,Yes,No,29.05,Low
+Sun Temple,3571289,Thursday,Rainy,Yes,No,19.05,Low
+Sun Temple,3571289,Friday,Sunny,Yes,No,39.05,Low
+Sun Temple,3571289,Friday,Cloudy,Yes,No,39.05,Low
+Sun Temple,3571289,Friday,Rainy,Yes,No,29.05,Low
+Sun Temple,3571289,Saturday,Sunny,Yes,No,39.05,Low
+Sun Temple,3571289,Saturday,Cloudy,Yes,No,39.05,Low
+Sun Temple,3571289,Saturday,Rainy,Yes,No,29.05,Low
+Sun Temple,3571289,Sunday,Sunny,Yes,No,49.05,Medium
+Sun Temple,3571289,Sunday,Cloudy,Yes,No,49.05,Medium
+Sun Temple,3571289,Sunday,Rainy,Yes,No,39.05,Low
+Sun Temple,3571289,Monday,Sunny,No,Yes,34.05,Low
+Sun Temple,3571289,Monday,Cloudy,No,Yes,34.05,Low
+Sun Temple,3571289,Monday,Rainy,No,Yes,24.05,Low
+Sun Temple,3571289,Tuesday,Sunny,No,Yes,34.05,Low
+Sun Temple,3571289,Tuesday,Cloudy,No,Yes,34.05,Low
+Sun Temple,3571289,Tuesday,Rainy,No,Yes,24.05,Low
+Sun Temple,3571289,Wednesday,Sunny,No,Yes,34.05,Low
+Sun Temple,3571289,Wednesday,Cloudy,No,Yes,34.05,Low
+Sun Temple,3571289,Wednesday,Rainy,No,Yes,24.05,Low
+Sun Temple,3571289,Thursday,Sunny,No,Yes,34.05,Low
+Sun Temple,3571289,Thursday,Cloudy,No,Yes,34.05,Low
+Sun Temple,3571289,Thursday,Rainy,No,Yes,24.05,Low
+Sun Temple,3571289,Friday,Sunny,No,Yes,44.05,Medium
+Sun Temple,3571289,Friday,Cloudy,No,Yes,44.05,Medium
+Sun Temple,3571289,Friday,Rainy,No,Yes,34.05,Low
+Sun Temple,3571289,Saturday,Sunny,No,Yes,44.05,Medium
+Sun Temple,3571289,Saturday,Cloudy,No,Yes,44.05,Medium
+Sun Temple,3571289,Saturday,Rainy,No,Yes,34.05,Low
+Sun Temple,3571289,Sunday,Sunny,No,Yes,54.05,Medium
+Sun Temple,3571289,Sunday,Cloudy,No,Yes,54.05,Medium
+Sun Temple,3571289,Sunday,Rainy,No,Yes,44.05,Medium
+Sun Temple,3571289,Monday,Sunny,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Monday,Cloudy,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Monday,Rainy,Yes,Yes,34.05,Low
+Sun Temple,3571289,Tuesday,Sunny,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Tuesday,Cloudy,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Tuesday,Rainy,Yes,Yes,34.05,Low
+Sun Temple,3571289,Wednesday,Sunny,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Wednesday,Cloudy,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Wednesday,Rainy,Yes,Yes,34.05,Low
+Sun Temple,3571289,Thursday,Sunny,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Thursday,Cloudy,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Thursday,Rainy,Yes,Yes,34.05,Low
+Sun Temple,3571289,Friday,Sunny,Yes,Yes,54.05,Medium
+Sun Temple,3571289,Friday,Cloudy,Yes,Yes,54.05,Medium
+Sun Temple,3571289,Friday,Rainy,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Saturday,Sunny,Yes,Yes,54.05,Medium
+Sun Temple,3571289,Saturday,Cloudy,Yes,Yes,54.05,Medium
+Sun Temple,3571289,Saturday,Rainy,Yes,Yes,44.05,Medium
+Sun Temple,3571289,Sunday,Sunny,Yes,Yes,64.05,Medium
+Sun Temple,3571289,Sunday,Cloudy,Yes,Yes,64.05,Medium
+Sun Temple,3571289,Sunday,Rainy,Yes,Yes,54.05,Medium
+Qutub Minar,3204760,Monday,Sunny,No,No,18.15,Low
+Qutub Minar,3204760,Monday,Cloudy,No,No,18.15,Low
+Qutub Minar,3204760,Monday,Rainy,No,No,8.15,Low
+Qutub Minar,3204760,Tuesday,Sunny,No,No,18.15,Low
+Qutub Minar,3204760,Tuesday,Cloudy,No,No,18.15,Low
+Qutub Minar,3204760,Tuesday,Rainy,No,No,8.15,Low
+Qutub Minar,3204760,Wednesday,Sunny,No,No,18.15,Low
+Qutub Minar,3204760,Wednesday,Cloudy,No,No,18.15,Low
+Qutub Minar,3204760,Wednesday,Rainy,No,No,8.15,Low
+Qutub Minar,3204760,Thursday,Sunny,No,No,18.15,Low
+Qutub Minar,3204760,Thursday,Cloudy,No,No,18.15,Low
+Qutub Minar,3204760,Thursday,Rainy,No,No,8.15,Low
+Qutub Minar,3204760,Friday,Sunny,No,No,28.15,Low
+Qutub Minar,3204760,Friday,Cloudy,No,No,28.15,Low
+Qutub Minar,3204760,Friday,Rainy,No,No,18.15,Low
+Qutub Minar,3204760,Saturday,Sunny,No,No,28.15,Low
+Qutub Minar,3204760,Saturday,Cloudy,No,No,28.15,Low
+Qutub Minar,3204760,Saturday,Rainy,No,No,18.15,Low
+Qutub Minar,3204760,Sunday,Sunny,No,No,38.15,Low
+Qutub Minar,3204760,Sunday,Cloudy,No,No,38.15,Low
+Qutub Minar,3204760,Sunday,Rainy,No,No,28.15,Low
+Qutub Minar,3204760,Monday,Sunny,Yes,No,28.15,Low
+Qutub Minar,3204760,Monday,Cloudy,Yes,No,28.15,Low
+Qutub Minar,3204760,Monday,Rainy,Yes,No,18.15,Low
+Qutub Minar,3204760,Tuesday,Sunny,Yes,No,28.15,Low
+Qutub Minar,3204760,Tuesday,Cloudy,Yes,No,28.15,Low
+Qutub Minar,3204760,Tuesday,Rainy,Yes,No,18.15,Low
+Qutub Minar,3204760,Wednesday,Sunny,Yes,No,28.15,Low
+Qutub Minar,3204760,Wednesday,Cloudy,Yes,No,28.15,Low
+Qutub Minar,3204760,Wednesday,Rainy,Yes,No,18.15,Low
+Qutub Minar,3204760,Thursday,Sunny,Yes,No,28.15,Low
+Qutub Minar,3204760,Thursday,Cloudy,Yes,No,28.15,Low
+Qutub Minar,3204760,Thursday,Rainy,Yes,No,18.15,Low
+Qutub Minar,3204760,Friday,Sunny,Yes,No,38.15,Low
+Qutub Minar,3204760,Friday,Cloudy,Yes,No,38.15,Low
+Qutub Minar,3204760,Friday,Rainy,Yes,No,28.15,Low
+Qutub Minar,3204760,Saturday,Sunny,Yes,No,38.15,Low
+Qutub Minar,3204760,Saturday,Cloudy,Yes,No,38.15,Low
+Qutub Minar,3204760,Saturday,Rainy,Yes,No,28.15,Low
+Qutub Minar,3204760,Sunday,Sunny,Yes,No,48.15,Medium
+Qutub Minar,3204760,Sunday,Cloudy,Yes,No,48.15,Medium
+Qutub Minar,3204760,Sunday,Rainy,Yes,No,38.15,Low
+Qutub Minar,3204760,Monday,Sunny,No,Yes,33.15,Low
+Qutub Minar,3204760,Monday,Cloudy,No,Yes,33.15,Low
+Qutub Minar,3204760,Monday,Rainy,No,Yes,23.15,Low
+Qutub Minar,3204760,Tuesday,Sunny,No,Yes,33.15,Low
+Qutub Minar,3204760,Tuesday,Cloudy,No,Yes,33.15,Low
+Qutub Minar,3204760,Tuesday,Rainy,No,Yes,23.15,Low
+Qutub Minar,3204760,Wednesday,Sunny,No,Yes,33.15,Low
+Qutub Minar,3204760,Wednesday,Cloudy,No,Yes,33.15,Low
+Qutub Minar,3204760,Wednesday,Rainy,No,Yes,23.15,Low
+Qutub Minar,3204760,Thursday,Sunny,No,Yes,33.15,Low
+Qutub Minar,3204760,Thursday,Cloudy,No,Yes,33.15,Low
+Qutub Minar,3204760,Thursday,Rainy,No,Yes,23.15,Low
+Qutub Minar,3204760,Friday,Sunny,No,Yes,43.15,Medium
+Qutub Minar,3204760,Friday,Cloudy,No,Yes,43.15,Medium
+Qutub Minar,3204760,Friday,Rainy,No,Yes,33.15,Low
+Qutub Minar,3204760,Saturday,Sunny,No,Yes,43.15,Medium
+Qutub Minar,3204760,Saturday,Cloudy,No,Yes,43.15,Medium
+Qutub Minar,3204760,Saturday,Rainy,No,Yes,33.15,Low
+Qutub Minar,3204760,Sunday,Sunny,No,Yes,53.15,Medium
+Qutub Minar,3204760,Sunday,Cloudy,No,Yes,53.15,Medium
+Qutub Minar,3204760,Sunday,Rainy,No,Yes,43.15,Medium
+Qutub Minar,3204760,Monday,Sunny,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Monday,Cloudy,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Monday,Rainy,Yes,Yes,33.15,Low
+Qutub Minar,3204760,Tuesday,Sunny,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Tuesday,Cloudy,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Tuesday,Rainy,Yes,Yes,33.15,Low
+Qutub Minar,3204760,Wednesday,Sunny,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Wednesday,Cloudy,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Wednesday,Rainy,Yes,Yes,33.15,Low
+Qutub Minar,3204760,Thursday,Sunny,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Thursday,Cloudy,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Thursday,Rainy,Yes,Yes,33.15,Low
+Qutub Minar,3204760,Friday,Sunny,Yes,Yes,53.15,Medium
+Qutub Minar,3204760,Friday,Cloudy,Yes,Yes,53.15,Medium
+Qutub Minar,3204760,Friday,Rainy,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Saturday,Sunny,Yes,Yes,53.15,Medium
+Qutub Minar,3204760,Saturday,Cloudy,Yes,Yes,53.15,Medium
+Qutub Minar,3204760,Saturday,Rainy,Yes,Yes,43.15,Medium
+Qutub Minar,3204760,Sunday,Sunny,Yes,Yes,63.15,Medium
+Qutub Minar,3204760,Sunday,Cloudy,Yes,Yes,63.15,Medium
+Qutub Minar,3204760,Sunday,Rainy,Yes,Yes,53.15,Medium
+Red Fort,2884399,Monday,Sunny,No,No,17.27,Low
+Red Fort,2884399,Monday,Cloudy,No,No,17.27,Low
+Red Fort,2884399,Monday,Rainy,No,No,7.27,Low
+Red Fort,2884399,Tuesday,Sunny,No,No,17.27,Low
+Red Fort,2884399,Tuesday,Cloudy,No,No,17.27,Low
+Red Fort,2884399,Tuesday,Rainy,No,No,7.27,Low
+Red Fort,2884399,Wednesday,Sunny,No,No,17.27,Low
+Red Fort,2884399,Wednesday,Cloudy,No,No,17.27,Low
+Red Fort,2884399,Wednesday,Rainy,No,No,7.27,Low
+Red Fort,2884399,Thursday,Sunny,No,No,17.27,Low
+Red Fort,2884399,Thursday,Cloudy,No,No,17.27,Low
+Red Fort,2884399,Thursday,Rainy,No,No,7.27,Low
+Red Fort,2884399,Friday,Sunny,No,No,27.27,Low
+Red Fort,2884399,Friday,Cloudy,No,No,27.27,Low
+Red Fort,2884399,Friday,Rainy,No,No,17.27,Low
+Red Fort,2884399,Saturday,Sunny,No,No,27.27,Low
+Red Fort,2884399,Saturday,Cloudy,No,No,27.27,Low
+Red Fort,2884399,Saturday,Rainy,No,No,17.27,Low
+Red Fort,2884399,Sunday,Sunny,No,No,37.27,Low
+Red Fort,2884399,Sunday,Cloudy,No,No,37.27,Low
+Red Fort,2884399,Sunday,Rainy,No,No,27.27,Low
+Red Fort,2884399,Monday,Sunny,Yes,No,27.27,Low
+Red Fort,2884399,Monday,Cloudy,Yes,No,27.27,Low
+Red Fort,2884399,Monday,Rainy,Yes,No,17.27,Low
+Red Fort,2884399,Tuesday,Sunny,Yes,No,27.27,Low
+Red Fort,2884399,Tuesday,Cloudy,Yes,No,27.27,Low
+Red Fort,2884399,Tuesday,Rainy,Yes,No,17.27,Low
+Red Fort,2884399,Wednesday,Sunny,Yes,No,27.27,Low
+Red Fort,2884399,Wednesday,Cloudy,Yes,No,27.27,Low
+Red Fort,2884399,Wednesday,Rainy,Yes,No,17.27,Low
+Red Fort,2884399,Thursday,Sunny,Yes,No,27.27,Low
+Red Fort,2884399,Thursday,Cloudy,Yes,No,27.27,Low
+Red Fort,2884399,Thursday,Rainy,Yes,No,17.27,Low
+Red Fort,2884399,Friday,Sunny,Yes,No,37.27,Low
+Red Fort,2884399,Friday,Cloudy,Yes,No,37.27,Low
+Red Fort,2884399,Friday,Rainy,Yes,No,27.27,Low
+Red Fort,2884399,Saturday,Sunny,Yes,No,37.27,Low
+Red Fort,2884399,Saturday,Cloudy,Yes,No,37.27,Low
+Red Fort,2884399,Saturday,Rainy,Yes,No,27.27,Low
+Red Fort,2884399,Sunday,Sunny,Yes,No,47.27,Medium
+Red Fort,2884399,Sunday,Cloudy,Yes,No,47.27,Medium
+Red Fort,2884399,Sunday,Rainy,Yes,No,37.27,Low
+Red Fort,2884399,Monday,Sunny,No,Yes,32.27,Low
+Red Fort,2884399,Monday,Cloudy,No,Yes,32.27,Low
+Red Fort,2884399,Monday,Rainy,No,Yes,22.27,Low
+Red Fort,2884399,Tuesday,Sunny,No,Yes,32.27,Low
+Red Fort,2884399,Tuesday,Cloudy,No,Yes,32.27,Low
+Red Fort,2884399,Tuesday,Rainy,No,Yes,22.27,Low
+Red Fort,2884399,Wednesday,Sunny,No,Yes,32.27,Low
+Red Fort,2884399,Wednesday,Cloudy,No,Yes,32.27,Low
+Red Fort,2884399,Wednesday,Rainy,No,Yes,22.27,Low
+Red Fort,2884399,Thursday,Sunny,No,Yes,32.27,Low
+Red Fort,2884399,Thursday,Cloudy,No,Yes,32.27,Low
+Red Fort,2884399,Thursday,Rainy,No,Yes,22.27,Low
+Red Fort,2884399,Friday,Sunny,No,Yes,42.27,Medium
+Red Fort,2884399,Friday,Cloudy,No,Yes,42.27,Medium
+Red Fort,2884399,Friday,Rainy,No,Yes,32.27,Low
+Red Fort,2884399,Saturday,Sunny,No,Yes,42.27,Medium
+Red Fort,2884399,Saturday,Cloudy,No,Yes,42.27,Medium
+Red Fort,2884399,Saturday,Rainy,No,Yes,32.27,Low
+Red Fort,2884399,Sunday,Sunny,No,Yes,52.27,Medium
+Red Fort,2884399,Sunday,Cloudy,No,Yes,52.27,Medium
+Red Fort,2884399,Sunday,Rainy,No,Yes,42.27,Medium
+Red Fort,2884399,Monday,Sunny,Yes,Yes,42.27,Medium
+Red Fort,2884399,Monday,Cloudy,Yes,Yes,42.27,Medium
+Red Fort,2884399,Monday,Rainy,Yes,Yes,32.27,Low
+Red Fort,2884399,Tuesday,Sunny,Yes,Yes,42.27,Medium
+Red Fort,2884399,Tuesday,Cloudy,Yes,Yes,42.27,Medium
+Red Fort,2884399,Tuesday,Rainy,Yes,Yes,32.27,Low
+Red Fort,2884399,Wednesday,Sunny,Yes,Yes,42.27,Medium
+Red Fort,2884399,Wednesday,Cloudy,Yes,Yes,42.27,Medium
+Red Fort,2884399,Wednesday,Rainy,Yes,Yes,32.27,Low
+Red Fort,2884399,Thursday,Sunny,Yes,Yes,42.27,Medium
+Red Fort,2884399,Thursday,Cloudy,Yes,Yes,42.27,Medium
+Red Fort,2884399,Thursday,Rainy,Yes,Yes,32.27,Low
+Red Fort,2884399,Friday,Sunny,Yes,Yes,52.27,Medium
+Red Fort,2884399,Friday,Cloudy,Yes,Yes,52.27,Medium
+Red Fort,2884399,Friday,Rainy,Yes,Yes,42.27,Medium
+Red Fort,2884399,Saturday,Sunny,Yes,Yes,52.27,Medium
+Red Fort,2884399,Saturday,Cloudy,Yes,Yes,52.27,Medium
+Red Fort,2884399,Saturday,Rainy,Yes,Yes,42.27,Medium
+Red Fort,2884399,Sunday,Sunny,Yes,Yes,62.27,Medium
+Red Fort,2884399,Sunday,Cloudy,Yes,Yes,62.27,Medium
+Red Fort,2884399,Sunday,Rainy,Yes,Yes,52.27,Medium
+Bibi Ka Maqbara,2004535,Monday,Sunny,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Monday,Cloudy,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Monday,Rainy,No,No,4.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Sunny,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Cloudy,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Rainy,No,No,4.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Sunny,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Cloudy,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Rainy,No,No,4.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Sunny,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Cloudy,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Rainy,No,No,4.23,Low
+Bibi Ka Maqbara,2004535,Friday,Sunny,No,No,24.23,Low
+Bibi Ka Maqbara,2004535,Friday,Cloudy,No,No,24.23,Low
+Bibi Ka Maqbara,2004535,Friday,Rainy,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Sunny,No,No,24.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Cloudy,No,No,24.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Rainy,No,No,14.23,Low
+Bibi Ka Maqbara,2004535,Sunday,Sunny,No,No,34.23,Low
+Bibi Ka Maqbara,2004535,Sunday,Cloudy,No,No,34.23,Low
+Bibi Ka Maqbara,2004535,Sunday,Rainy,No,No,24.23,Low
+Bibi Ka Maqbara,2004535,Monday,Sunny,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Monday,Cloudy,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Monday,Rainy,Yes,No,14.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Sunny,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Cloudy,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Rainy,Yes,No,14.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Sunny,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Cloudy,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Rainy,Yes,No,14.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Sunny,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Cloudy,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Rainy,Yes,No,14.23,Low
+Bibi Ka Maqbara,2004535,Friday,Sunny,Yes,No,34.23,Low
+Bibi Ka Maqbara,2004535,Friday,Cloudy,Yes,No,34.23,Low
+Bibi Ka Maqbara,2004535,Friday,Rainy,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Sunny,Yes,No,34.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Cloudy,Yes,No,34.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Rainy,Yes,No,24.23,Low
+Bibi Ka Maqbara,2004535,Sunday,Sunny,Yes,No,44.23,Medium
+Bibi Ka Maqbara,2004535,Sunday,Cloudy,Yes,No,44.23,Medium
+Bibi Ka Maqbara,2004535,Sunday,Rainy,Yes,No,34.23,Low
+Bibi Ka Maqbara,2004535,Monday,Sunny,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Monday,Cloudy,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Monday,Rainy,No,Yes,19.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Sunny,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Cloudy,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Rainy,No,Yes,19.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Sunny,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Cloudy,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Rainy,No,Yes,19.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Sunny,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Cloudy,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Rainy,No,Yes,19.23,Low
+Bibi Ka Maqbara,2004535,Friday,Sunny,No,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Friday,Cloudy,No,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Friday,Rainy,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Sunny,No,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Cloudy,No,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Rainy,No,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Sunday,Sunny,No,Yes,49.23,Medium
+Bibi Ka Maqbara,2004535,Sunday,Cloudy,No,Yes,49.23,Medium
+Bibi Ka Maqbara,2004535,Sunday,Rainy,No,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Monday,Sunny,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Monday,Cloudy,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Monday,Rainy,Yes,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Sunny,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Cloudy,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Tuesday,Rainy,Yes,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Sunny,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Cloudy,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Wednesday,Rainy,Yes,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Sunny,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Cloudy,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Thursday,Rainy,Yes,Yes,29.23,Low
+Bibi Ka Maqbara,2004535,Friday,Sunny,Yes,Yes,49.23,Medium
+Bibi Ka Maqbara,2004535,Friday,Cloudy,Yes,Yes,49.23,Medium
+Bibi Ka Maqbara,2004535,Friday,Rainy,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Saturday,Sunny,Yes,Yes,49.23,Medium
+Bibi Ka Maqbara,2004535,Saturday,Cloudy,Yes,Yes,49.23,Medium
+Bibi Ka Maqbara,2004535,Saturday,Rainy,Yes,Yes,39.23,Low
+Bibi Ka Maqbara,2004535,Sunday,Sunny,Yes,Yes,59.23,Medium
+Bibi Ka Maqbara,2004535,Sunday,Cloudy,Yes,Yes,59.23,Medium
+Bibi Ka Maqbara,2004535,Sunday,Rainy,Yes,Yes,49.23,Medium
+Ellora Caves,1739873,Monday,Sunny,No,No,13.04,Low
+Ellora Caves,1739873,Monday,Cloudy,No,No,13.04,Low
+Ellora Caves,1739873,Monday,Rainy,No,No,3.04,Low
+Ellora Caves,1739873,Tuesday,Sunny,No,No,13.04,Low
+Ellora Caves,1739873,Tuesday,Cloudy,No,No,13.04,Low
+Ellora Caves,1739873,Tuesday,Rainy,No,No,3.04,Low
+Ellora Caves,1739873,Wednesday,Sunny,No,No,13.04,Low
+Ellora Caves,1739873,Wednesday,Cloudy,No,No,13.04,Low
+Ellora Caves,1739873,Wednesday,Rainy,No,No,3.04,Low
+Ellora Caves,1739873,Thursday,Sunny,No,No,13.04,Low
+Ellora Caves,1739873,Thursday,Cloudy,No,No,13.04,Low
+Ellora Caves,1739873,Thursday,Rainy,No,No,3.04,Low
+Ellora Caves,1739873,Friday,Sunny,No,No,23.04,Low
+Ellora Caves,1739873,Friday,Cloudy,No,No,23.04,Low
+Ellora Caves,1739873,Friday,Rainy,No,No,13.04,Low
+Ellora Caves,1739873,Saturday,Sunny,No,No,23.04,Low
+Ellora Caves,1739873,Saturday,Cloudy,No,No,23.04,Low
+Ellora Caves,1739873,Saturday,Rainy,No,No,13.04,Low
+Ellora Caves,1739873,Sunday,Sunny,No,No,33.04,Low
+Ellora Caves,1739873,Sunday,Cloudy,No,No,33.04,Low
+Ellora Caves,1739873,Sunday,Rainy,No,No,23.04,Low
+Ellora Caves,1739873,Monday,Sunny,Yes,No,23.04,Low
+Ellora Caves,1739873,Monday,Cloudy,Yes,No,23.04,Low
+Ellora Caves,1739873,Monday,Rainy,Yes,No,13.04,Low
+Ellora Caves,1739873,Tuesday,Sunny,Yes,No,23.04,Low
+Ellora Caves,1739873,Tuesday,Cloudy,Yes,No,23.04,Low
+Ellora Caves,1739873,Tuesday,Rainy,Yes,No,13.04,Low
+Ellora Caves,1739873,Wednesday,Sunny,Yes,No,23.04,Low
+Ellora Caves,1739873,Wednesday,Cloudy,Yes,No,23.04,Low
+Ellora Caves,1739873,Wednesday,Rainy,Yes,No,13.04,Low
+Ellora Caves,1739873,Thursday,Sunny,Yes,No,23.04,Low
+Ellora Caves,1739873,Thursday,Cloudy,Yes,No,23.04,Low
+Ellora Caves,1739873,Thursday,Rainy,Yes,No,13.04,Low
+Ellora Caves,1739873,Friday,Sunny,Yes,No,33.04,Low
+Ellora Caves,1739873,Friday,Cloudy,Yes,No,33.04,Low
+Ellora Caves,1739873,Friday,Rainy,Yes,No,23.04,Low
+Ellora Caves,1739873,Saturday,Sunny,Yes,No,33.04,Low
+Ellora Caves,1739873,Saturday,Cloudy,Yes,No,33.04,Low
+Ellora Caves,1739873,Saturday,Rainy,Yes,No,23.04,Low
+Ellora Caves,1739873,Sunday,Sunny,Yes,No,43.04,Medium
+Ellora Caves,1739873,Sunday,Cloudy,Yes,No,43.04,Medium
+Ellora Caves,1739873,Sunday,Rainy,Yes,No,33.04,Low
+Ellora Caves,1739873,Monday,Sunny,No,Yes,28.04,Low
+Ellora Caves,1739873,Monday,Cloudy,No,Yes,28.04,Low
+Ellora Caves,1739873,Monday,Rainy,No,Yes,18.04,Low
+Ellora Caves,1739873,Tuesday,Sunny,No,Yes,28.04,Low
+Ellora Caves,1739873,Tuesday,Cloudy,No,Yes,28.04,Low
+Ellora Caves,1739873,Tuesday,Rainy,No,Yes,18.04,Low
+Ellora Caves,1739873,Wednesday,Sunny,No,Yes,28.04,Low
+Ellora Caves,1739873,Wednesday,Cloudy,No,Yes,28.04,Low
+Ellora Caves,1739873,Wednesday,Rainy,No,Yes,18.04,Low
+Ellora Caves,1739873,Thursday,Sunny,No,Yes,28.04,Low
+Ellora Caves,1739873,Thursday,Cloudy,No,Yes,28.04,Low
+Ellora Caves,1739873,Thursday,Rainy,No,Yes,18.04,Low
+Ellora Caves,1739873,Friday,Sunny,No,Yes,38.04,Low
+Ellora Caves,1739873,Friday,Cloudy,No,Yes,38.04,Low
+Ellora Caves,1739873,Friday,Rainy,No,Yes,28.04,Low
+Ellora Caves,1739873,Saturday,Sunny,No,Yes,38.04,Low
+Ellora Caves,1739873,Saturday,Cloudy,No,Yes,38.04,Low
+Ellora Caves,1739873,Saturday,Rainy,No,Yes,28.04,Low
+Ellora Caves,1739873,Sunday,Sunny,No,Yes,48.04,Medium
+Ellora Caves,1739873,Sunday,Cloudy,No,Yes,48.04,Medium
+Ellora Caves,1739873,Sunday,Rainy,No,Yes,38.04,Low
+Ellora Caves,1739873,Monday,Sunny,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Monday,Cloudy,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Monday,Rainy,Yes,Yes,28.04,Low
+Ellora Caves,1739873,Tuesday,Sunny,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Tuesday,Cloudy,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Tuesday,Rainy,Yes,Yes,28.04,Low
+Ellora Caves,1739873,Wednesday,Sunny,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Wednesday,Cloudy,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Wednesday,Rainy,Yes,Yes,28.04,Low
+Ellora Caves,1739873,Thursday,Sunny,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Thursday,Cloudy,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Thursday,Rainy,Yes,Yes,28.04,Low
+Ellora Caves,1739873,Friday,Sunny,Yes,Yes,48.04,Medium
+Ellora Caves,1739873,Friday,Cloudy,Yes,Yes,48.04,Medium
+Ellora Caves,1739873,Friday,Rainy,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Saturday,Sunny,Yes,Yes,48.04,Medium
+Ellora Caves,1739873,Saturday,Cloudy,Yes,Yes,48.04,Medium
+Ellora Caves,1739873,Saturday,Rainy,Yes,Yes,38.04,Low
+Ellora Caves,1739873,Sunday,Sunny,Yes,Yes,58.04,Medium
+Ellora Caves,1739873,Sunday,Cloudy,Yes,Yes,58.04,Medium
+Ellora Caves,1739873,Sunday,Rainy,Yes,Yes,48.04,Medium
+Golkonda Fort,1563524,Monday,Sunny,No,No,12.15,Low
+Golkonda Fort,1563524,Monday,Cloudy,No,No,12.15,Low
+Golkonda Fort,1563524,Monday,Rainy,No,No,2.15,Low
+Golkonda Fort,1563524,Tuesday,Sunny,No,No,12.15,Low
+Golkonda Fort,1563524,Tuesday,Cloudy,No,No,12.15,Low
+Golkonda Fort,1563524,Tuesday,Rainy,No,No,2.15,Low
+Golkonda Fort,1563524,Wednesday,Sunny,No,No,12.15,Low
+Golkonda Fort,1563524,Wednesday,Cloudy,No,No,12.15,Low
+Golkonda Fort,1563524,Wednesday,Rainy,No,No,2.15,Low
+Golkonda Fort,1563524,Thursday,Sunny,No,No,12.15,Low
+Golkonda Fort,1563524,Thursday,Cloudy,No,No,12.15,Low
+Golkonda Fort,1563524,Thursday,Rainy,No,No,2.15,Low
+Golkonda Fort,1563524,Friday,Sunny,No,No,22.15,Low
+Golkonda Fort,1563524,Friday,Cloudy,No,No,22.15,Low
+Golkonda Fort,1563524,Friday,Rainy,No,No,12.15,Low
+Golkonda Fort,1563524,Saturday,Sunny,No,No,22.15,Low
+Golkonda Fort,1563524,Saturday,Cloudy,No,No,22.15,Low
+Golkonda Fort,1563524,Saturday,Rainy,No,No,12.15,Low
+Golkonda Fort,1563524,Sunday,Sunny,No,No,32.15,Low
+Golkonda Fort,1563524,Sunday,Cloudy,No,No,32.15,Low
+Golkonda Fort,1563524,Sunday,Rainy,No,No,22.15,Low
+Golkonda Fort,1563524,Monday,Sunny,Yes,No,22.15,Low
+Golkonda Fort,1563524,Monday,Cloudy,Yes,No,22.15,Low
+Golkonda Fort,1563524,Monday,Rainy,Yes,No,12.15,Low
+Golkonda Fort,1563524,Tuesday,Sunny,Yes,No,22.15,Low
+Golkonda Fort,1563524,Tuesday,Cloudy,Yes,No,22.15,Low
+Golkonda Fort,1563524,Tuesday,Rainy,Yes,No,12.15,Low
+Golkonda Fort,1563524,Wednesday,Sunny,Yes,No,22.15,Low
+Golkonda Fort,1563524,Wednesday,Cloudy,Yes,No,22.15,Low
+Golkonda Fort,1563524,Wednesday,Rainy,Yes,No,12.15,Low
+Golkonda Fort,1563524,Thursday,Sunny,Yes,No,22.15,Low
+Golkonda Fort,1563524,Thursday,Cloudy,Yes,No,22.15,Low
+Golkonda Fort,1563524,Thursday,Rainy,Yes,No,12.15,Low
+Golkonda Fort,1563524,Friday,Sunny,Yes,No,32.15,Low
+Golkonda Fort,1563524,Friday,Cloudy,Yes,No,32.15,Low
+Golkonda Fort,1563524,Friday,Rainy,Yes,No,22.15,Low
+Golkonda Fort,1563524,Saturday,Sunny,Yes,No,32.15,Low
+Golkonda Fort,1563524,Saturday,Cloudy,Yes,No,32.15,Low
+Golkonda Fort,1563524,Saturday,Rainy,Yes,No,22.15,Low
+Golkonda Fort,1563524,Sunday,Sunny,Yes,No,42.15,Medium
+Golkonda Fort,1563524,Sunday,Cloudy,Yes,No,42.15,Medium
+Golkonda Fort,1563524,Sunday,Rainy,Yes,No,32.15,Low
+Golkonda Fort,1563524,Monday,Sunny,No,Yes,27.15,Low
+Golkonda Fort,1563524,Monday,Cloudy,No,Yes,27.15,Low
+Golkonda Fort,1563524,Monday,Rainy,No,Yes,17.15,Low
+Golkonda Fort,1563524,Tuesday,Sunny,No,Yes,27.15,Low
+Golkonda Fort,1563524,Tuesday,Cloudy,No,Yes,27.15,Low
+Golkonda Fort,1563524,Tuesday,Rainy,No,Yes,17.15,Low
+Golkonda Fort,1563524,Wednesday,Sunny,No,Yes,27.15,Low
+Golkonda Fort,1563524,Wednesday,Cloudy,No,Yes,27.15,Low
+Golkonda Fort,1563524,Wednesday,Rainy,No,Yes,17.15,Low
+Golkonda Fort,1563524,Thursday,Sunny,No,Yes,27.15,Low
+Golkonda Fort,1563524,Thursday,Cloudy,No,Yes,27.15,Low
+Golkonda Fort,1563524,Thursday,Rainy,No,Yes,17.15,Low
+Golkonda Fort,1563524,Friday,Sunny,No,Yes,37.15,Low
+Golkonda Fort,1563524,Friday,Cloudy,No,Yes,37.15,Low
+Golkonda Fort,1563524,Friday,Rainy,No,Yes,27.15,Low
+Golkonda Fort,1563524,Saturday,Sunny,No,Yes,37.15,Low
+Golkonda Fort,1563524,Saturday,Cloudy,No,Yes,37.15,Low
+Golkonda Fort,1563524,Saturday,Rainy,No,Yes,27.15,Low
+Golkonda Fort,1563524,Sunday,Sunny,No,Yes,47.15,Medium
+Golkonda Fort,1563524,Sunday,Cloudy,No,Yes,47.15,Medium
+Golkonda Fort,1563524,Sunday,Rainy,No,Yes,37.15,Low
+Golkonda Fort,1563524,Monday,Sunny,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Monday,Cloudy,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Monday,Rainy,Yes,Yes,27.15,Low
+Golkonda Fort,1563524,Tuesday,Sunny,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Tuesday,Cloudy,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Tuesday,Rainy,Yes,Yes,27.15,Low
+Golkonda Fort,1563524,Wednesday,Sunny,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Wednesday,Cloudy,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Wednesday,Rainy,Yes,Yes,27.15,Low
+Golkonda Fort,1563524,Thursday,Sunny,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Thursday,Cloudy,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Thursday,Rainy,Yes,Yes,27.15,Low
+Golkonda Fort,1563524,Friday,Sunny,Yes,Yes,47.15,Medium
+Golkonda Fort,1563524,Friday,Cloudy,Yes,Yes,47.15,Medium
+Golkonda Fort,1563524,Friday,Rainy,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Saturday,Sunny,Yes,Yes,47.15,Medium
+Golkonda Fort,1563524,Saturday,Cloudy,Yes,Yes,47.15,Medium
+Golkonda Fort,1563524,Saturday,Rainy,Yes,Yes,37.15,Low
+Golkonda Fort,1563524,Sunday,Sunny,Yes,Yes,57.15,Medium
+Golkonda Fort,1563524,Sunday,Cloudy,Yes,Yes,57.15,Medium
+Golkonda Fort,1563524,Sunday,Rainy,Yes,Yes,47.15,Medium
+Agra Fort,1545550,Monday,Sunny,No,No,12.05,Low
+Agra Fort,1545550,Monday,Cloudy,No,No,12.05,Low
+Agra Fort,1545550,Monday,Rainy,No,No,2.05,Low
+Agra Fort,1545550,Tuesday,Sunny,No,No,12.05,Low
+Agra Fort,1545550,Tuesday,Cloudy,No,No,12.05,Low
+Agra Fort,1545550,Tuesday,Rainy,No,No,2.05,Low
+Agra Fort,1545550,Wednesday,Sunny,No,No,12.05,Low
+Agra Fort,1545550,Wednesday,Cloudy,No,No,12.05,Low
+Agra Fort,1545550,Wednesday,Rainy,No,No,2.05,Low
+Agra Fort,1545550,Thursday,Sunny,No,No,12.05,Low
+Agra Fort,1545550,Thursday,Cloudy,No,No,12.05,Low
+Agra Fort,1545550,Thursday,Rainy,No,No,2.05,Low
+Agra Fort,1545550,Friday,Sunny,No,No,22.05,Low
+Agra Fort,1545550,Friday,Cloudy,No,No,22.05,Low
+Agra Fort,1545550,Friday,Rainy,No,No,12.05,Low
+Agra Fort,1545550,Saturday,Sunny,No,No,22.05,Low
+Agra Fort,1545550,Saturday,Cloudy,No,No,22.05,Low
+Agra Fort,1545550,Saturday,Rainy,No,No,12.05,Low
+Agra Fort,1545550,Sunday,Sunny,No,No,32.05,Low
+Agra Fort,1545550,Sunday,Cloudy,No,No,32.05,Low
+Agra Fort,1545550,Sunday,Rainy,No,No,22.05,Low
+Agra Fort,1545550,Monday,Sunny,Yes,No,22.05,Low
+Agra Fort,1545550,Monday,Cloudy,Yes,No,22.05,Low
+Agra Fort,1545550,Monday,Rainy,Yes,No,12.05,Low
+Agra Fort,1545550,Tuesday,Sunny,Yes,No,22.05,Low
+Agra Fort,1545550,Tuesday,Cloudy,Yes,No,22.05,Low
+Agra Fort,1545550,Tuesday,Rainy,Yes,No,12.05,Low
+Agra Fort,1545550,Wednesday,Sunny,Yes,No,22.05,Low
+Agra Fort,1545550,Wednesday,Cloudy,Yes,No,22.05,Low
+Agra Fort,1545550,Wednesday,Rainy,Yes,No,12.05,Low
+Agra Fort,1545550,Thursday,Sunny,Yes,No,22.05,Low
+Agra Fort,1545550,Thursday,Cloudy,Yes,No,22.05,Low
+Agra Fort,1545550,Thursday,Rainy,Yes,No,12.05,Low
+Agra Fort,1545550,Friday,Sunny,Yes,No,32.05,Low
+Agra Fort,1545550,Friday,Cloudy,Yes,No,32.05,Low
+Agra Fort,1545550,Friday,Rainy,Yes,No,22.05,Low
+Agra Fort,1545550,Saturday,Sunny,Yes,No,32.05,Low
+Agra Fort,1545550,Saturday,Cloudy,Yes,No,32.05,Low
+Agra Fort,1545550,Saturday,Rainy,Yes,No,22.05,Low
+Agra Fort,1545550,Sunday,Sunny,Yes,No,42.05,Medium
+Agra Fort,1545550,Sunday,Cloudy,Yes,No,42.05,Medium
+Agra Fort,1545550,Sunday,Rainy,Yes,No,32.05,Low
+Agra Fort,1545550,Monday,Sunny,No,Yes,27.05,Low
+Agra Fort,1545550,Monday,Cloudy,No,Yes,27.05,Low
+Agra Fort,1545550,Monday,Rainy,No,Yes,17.05,Low
+Agra Fort,1545550,Tuesday,Sunny,No,Yes,27.05,Low
+Agra Fort,1545550,Tuesday,Cloudy,No,Yes,27.05,Low
+Agra Fort,1545550,Tuesday,Rainy,No,Yes,17.05,Low
+Agra Fort,1545550,Wednesday,Sunny,No,Yes,27.05,Low
+Agra Fort,1545550,Wednesday,Cloudy,No,Yes,27.05,Low
+Agra Fort,1545550,Wednesday,Rainy,No,Yes,17.05,Low
+Agra Fort,1545550,Thursday,Sunny,No,Yes,27.05,Low
+Agra Fort,1545550,Thursday,Cloudy,No,Yes,27.05,Low
+Agra Fort,1545550,Thursday,Rainy,No,Yes,17.05,Low
+Agra Fort,1545550,Friday,Sunny,No,Yes,37.05,Low
+Agra Fort,1545550,Friday,Cloudy,No,Yes,37.05,Low
+Agra Fort,1545550,Friday,Rainy,No,Yes,27.05,Low
+Agra Fort,1545550,Saturday,Sunny,No,Yes,37.05,Low
+Agra Fort,1545550,Saturday,Cloudy,No,Yes,37.05,Low
+Agra Fort,1545550,Saturday,Rainy,No,Yes,27.05,Low
+Agra Fort,1545550,Sunday,Sunny,No,Yes,47.05,Medium
+Agra Fort,1545550,Sunday,Cloudy,No,Yes,47.05,Medium
+Agra Fort,1545550,Sunday,Rainy,No,Yes,37.05,Low
+Agra Fort,1545550,Monday,Sunny,Yes,Yes,37.05,Low
+Agra Fort,1545550,Monday,Cloudy,Yes,Yes,37.05,Low
+Agra Fort,1545550,Monday,Rainy,Yes,Yes,27.05,Low
+Agra Fort,1545550,Tuesday,Sunny,Yes,Yes,37.05,Low
+Agra Fort,1545550,Tuesday,Cloudy,Yes,Yes,37.05,Low
+Agra Fort,1545550,Tuesday,Rainy,Yes,Yes,27.05,Low
+Agra Fort,1545550,Wednesday,Sunny,Yes,Yes,37.05,Low
+Agra Fort,1545550,Wednesday,Cloudy,Yes,Yes,37.05,Low
+Agra Fort,1545550,Wednesday,Rainy,Yes,Yes,27.05,Low
+Agra Fort,1545550,Thursday,Sunny,Yes,Yes,37.05,Low
+Agra Fort,1545550,Thursday,Cloudy,Yes,Yes,37.05,Low
+Agra Fort,1545550,Thursday,Rainy,Yes,Yes,27.05,Low
+Agra Fort,1545550,Friday,Sunny,Yes,Yes,47.05,Medium
+Agra Fort,1545550,Friday,Cloudy,Yes,Yes,47.05,Medium
+Agra Fort,1545550,Friday,Rainy,Yes,Yes,37.05,Low
+Agra Fort,1545550,Saturday,Sunny,Yes,Yes,47.05,Medium
+Agra Fort,1545550,Saturday,Cloudy,Yes,Yes,47.05,Medium
+Agra Fort,1545550,Saturday,Rainy,Yes,Yes,37.05,Low
+Agra Fort,1545550,Sunday,Sunny,Yes,Yes,57.05,Medium
+Agra Fort,1545550,Sunday,Cloudy,Yes,Yes,57.05,Medium
+Agra Fort,1545550,Sunday,Rainy,Yes,Yes,47.05,Medium
+Upper Fort Aguada,1358790,Monday,Sunny,No,No,10.98,Low
+Upper Fort Aguada,1358790,Monday,Cloudy,No,No,10.98,Low
+Upper Fort Aguada,1358790,Monday,Rainy,No,No,0.98,Low
+Upper Fort Aguada,1358790,Tuesday,Sunny,No,No,10.98,Low
+Upper Fort Aguada,1358790,Tuesday,Cloudy,No,No,10.98,Low
+Upper Fort Aguada,1358790,Tuesday,Rainy,No,No,0.98,Low
+Upper Fort Aguada,1358790,Wednesday,Sunny,No,No,10.98,Low
+Upper Fort Aguada,1358790,Wednesday,Cloudy,No,No,10.98,Low
+Upper Fort Aguada,1358790,Wednesday,Rainy,No,No,0.98,Low
+Upper Fort Aguada,1358790,Thursday,Sunny,No,No,10.98,Low
+Upper Fort Aguada,1358790,Thursday,Cloudy,No,No,10.98,Low
+Upper Fort Aguada,1358790,Thursday,Rainy,No,No,0.98,Low
+Upper Fort Aguada,1358790,Friday,Sunny,No,No,20.98,Low
+Upper Fort Aguada,1358790,Friday,Cloudy,No,No,20.98,Low
+Upper Fort Aguada,1358790,Friday,Rainy,No,No,10.98,Low
+Upper Fort Aguada,1358790,Saturday,Sunny,No,No,20.98,Low
+Upper Fort Aguada,1358790,Saturday,Cloudy,No,No,20.98,Low
+Upper Fort Aguada,1358790,Saturday,Rainy,No,No,10.98,Low
+Upper Fort Aguada,1358790,Sunday,Sunny,No,No,30.98,Low
+Upper Fort Aguada,1358790,Sunday,Cloudy,No,No,30.98,Low
+Upper Fort Aguada,1358790,Sunday,Rainy,No,No,20.98,Low
+Upper Fort Aguada,1358790,Monday,Sunny,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Monday,Cloudy,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Monday,Rainy,Yes,No,10.98,Low
+Upper Fort Aguada,1358790,Tuesday,Sunny,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Tuesday,Cloudy,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Tuesday,Rainy,Yes,No,10.98,Low
+Upper Fort Aguada,1358790,Wednesday,Sunny,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Wednesday,Cloudy,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Wednesday,Rainy,Yes,No,10.98,Low
+Upper Fort Aguada,1358790,Thursday,Sunny,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Thursday,Cloudy,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Thursday,Rainy,Yes,No,10.98,Low
+Upper Fort Aguada,1358790,Friday,Sunny,Yes,No,30.98,Low
+Upper Fort Aguada,1358790,Friday,Cloudy,Yes,No,30.98,Low
+Upper Fort Aguada,1358790,Friday,Rainy,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Saturday,Sunny,Yes,No,30.98,Low
+Upper Fort Aguada,1358790,Saturday,Cloudy,Yes,No,30.98,Low
+Upper Fort Aguada,1358790,Saturday,Rainy,Yes,No,20.98,Low
+Upper Fort Aguada,1358790,Sunday,Sunny,Yes,No,40.98,Medium
+Upper Fort Aguada,1358790,Sunday,Cloudy,Yes,No,40.98,Medium
+Upper Fort Aguada,1358790,Sunday,Rainy,Yes,No,30.98,Low
+Upper Fort Aguada,1358790,Monday,Sunny,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Monday,Cloudy,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Monday,Rainy,No,Yes,15.98,Low
+Upper Fort Aguada,1358790,Tuesday,Sunny,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Tuesday,Cloudy,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Tuesday,Rainy,No,Yes,15.98,Low
+Upper Fort Aguada,1358790,Wednesday,Sunny,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Wednesday,Cloudy,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Wednesday,Rainy,No,Yes,15.98,Low
+Upper Fort Aguada,1358790,Thursday,Sunny,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Thursday,Cloudy,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Thursday,Rainy,No,Yes,15.98,Low
+Upper Fort Aguada,1358790,Friday,Sunny,No,Yes,35.98,Low
+Upper Fort Aguada,1358790,Friday,Cloudy,No,Yes,35.98,Low
+Upper Fort Aguada,1358790,Friday,Rainy,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Saturday,Sunny,No,Yes,35.98,Low
+Upper Fort Aguada,1358790,Saturday,Cloudy,No,Yes,35.98,Low
+Upper Fort Aguada,1358790,Saturday,Rainy,No,Yes,25.98,Low
+Upper Fort Aguada,1358790,Sunday,Sunny,No,Yes,45.98,Medium
+Upper Fort Aguada,1358790,Sunday,Cloudy,No,Yes,45.98,Medium
+Upper Fort Aguada,1358790,Sunday,Rainy,No,Yes,35.98,Low
+Upper Fort Aguada,1358790,Monday,Sunny,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Monday,Cloudy,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Monday,Rainy,Yes,Yes,25.98,Low
+Upper Fort Aguada,1358790,Tuesday,Sunny,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Tuesday,Cloudy,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Tuesday,Rainy,Yes,Yes,25.98,Low
+Upper Fort Aguada,1358790,Wednesday,Sunny,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Wednesday,Cloudy,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Wednesday,Rainy,Yes,Yes,25.98,Low
+Upper Fort Aguada,1358790,Thursday,Sunny,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Thursday,Cloudy,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Thursday,Rainy,Yes,Yes,25.98,Low
+Upper Fort Aguada,1358790,Friday,Sunny,Yes,Yes,45.98,Medium
+Upper Fort Aguada,1358790,Friday,Cloudy,Yes,Yes,45.98,Medium
+Upper Fort Aguada,1358790,Friday,Rainy,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Saturday,Sunny,Yes,Yes,45.98,Medium
+Upper Fort Aguada,1358790,Saturday,Cloudy,Yes,Yes,45.98,Medium
+Upper Fort Aguada,1358790,Saturday,Rainy,Yes,Yes,35.98,Low
+Upper Fort Aguada,1358790,Sunday,Sunny,Yes,Yes,55.98,Medium
+Upper Fort Aguada,1358790,Sunday,Cloudy,Yes,Yes,55.98,Medium
+Upper Fort Aguada,1358790,Sunday,Rainy,Yes,Yes,45.98,Medium
+Charminar,1343503,Monday,Sunny,No,No,10.88,Low
+Charminar,1343503,Monday,Cloudy,No,No,10.88,Low
+Charminar,1343503,Monday,Rainy,No,No,0.88,Low
+Charminar,1343503,Tuesday,Sunny,No,No,10.88,Low
+Charminar,1343503,Tuesday,Cloudy,No,No,10.88,Low
+Charminar,1343503,Tuesday,Rainy,No,No,0.88,Low
+Charminar,1343503,Wednesday,Sunny,No,No,10.88,Low
+Charminar,1343503,Wednesday,Cloudy,No,No,10.88,Low
+Charminar,1343503,Wednesday,Rainy,No,No,0.88,Low
+Charminar,1343503,Thursday,Sunny,No,No,10.88,Low
+Charminar,1343503,Thursday,Cloudy,No,No,10.88,Low
+Charminar,1343503,Thursday,Rainy,No,No,0.88,Low
+Charminar,1343503,Friday,Sunny,No,No,20.88,Low
+Charminar,1343503,Friday,Cloudy,No,No,20.88,Low
+Charminar,1343503,Friday,Rainy,No,No,10.88,Low
+Charminar,1343503,Saturday,Sunny,No,No,20.88,Low
+Charminar,1343503,Saturday,Cloudy,No,No,20.88,Low
+Charminar,1343503,Saturday,Rainy,No,No,10.88,Low
+Charminar,1343503,Sunday,Sunny,No,No,30.88,Low
+Charminar,1343503,Sunday,Cloudy,No,No,30.88,Low
+Charminar,1343503,Sunday,Rainy,No,No,20.88,Low
+Charminar,1343503,Monday,Sunny,Yes,No,20.88,Low
+Charminar,1343503,Monday,Cloudy,Yes,No,20.88,Low
+Charminar,1343503,Monday,Rainy,Yes,No,10.88,Low
+Charminar,1343503,Tuesday,Sunny,Yes,No,20.88,Low
+Charminar,1343503,Tuesday,Cloudy,Yes,No,20.88,Low
+Charminar,1343503,Tuesday,Rainy,Yes,No,10.88,Low
+Charminar,1343503,Wednesday,Sunny,Yes,No,20.88,Low
+Charminar,1343503,Wednesday,Cloudy,Yes,No,20.88,Low
+Charminar,1343503,Wednesday,Rainy,Yes,No,10.88,Low
+Charminar,1343503,Thursday,Sunny,Yes,No,20.88,Low
+Charminar,1343503,Thursday,Cloudy,Yes,No,20.88,Low
+Charminar,1343503,Thursday,Rainy,Yes,No,10.88,Low
+Charminar,1343503,Friday,Sunny,Yes,No,30.88,Low
+Charminar,1343503,Friday,Cloudy,Yes,No,30.88,Low
+Charminar,1343503,Friday,Rainy,Yes,No,20.88,Low
+Charminar,1343503,Saturday,Sunny,Yes,No,30.88,Low
+Charminar,1343503,Saturday,Cloudy,Yes,No,30.88,Low
+Charminar,1343503,Saturday,Rainy,Yes,No,20.88,Low
+Charminar,1343503,Sunday,Sunny,Yes,No,40.88,Medium
+Charminar,1343503,Sunday,Cloudy,Yes,No,40.88,Medium
+Charminar,1343503,Sunday,Rainy,Yes,No,30.88,Low
+Charminar,1343503,Monday,Sunny,No,Yes,25.88,Low
+Charminar,1343503,Monday,Cloudy,No,Yes,25.88,Low
+Charminar,1343503,Monday,Rainy,No,Yes,15.88,Low
+Charminar,1343503,Tuesday,Sunny,No,Yes,25.88,Low
+Charminar,1343503,Tuesday,Cloudy,No,Yes,25.88,Low
+Charminar,1343503,Tuesday,Rainy,No,Yes,15.88,Low
+Charminar,1343503,Wednesday,Sunny,No,Yes,25.88,Low
+Charminar,1343503,Wednesday,Cloudy,No,Yes,25.88,Low
+Charminar,1343503,Wednesday,Rainy,No,Yes,15.88,Low
+Charminar,1343503,Thursday,Sunny,No,Yes,25.88,Low
+Charminar,1343503,Thursday,Cloudy,No,Yes,25.88,Low
+Charminar,1343503,Thursday,Rainy,No,Yes,15.88,Low
+Charminar,1343503,Friday,Sunny,No,Yes,35.88,Low
+Charminar,1343503,Friday,Cloudy,No,Yes,35.88,Low
+Charminar,1343503,Friday,Rainy,No,Yes,25.88,Low
+Charminar,1343503,Saturday,Sunny,No,Yes,35.88,Low
+Charminar,1343503,Saturday,Cloudy,No,Yes,35.88,Low
+Charminar,1343503,Saturday,Rainy,No,Yes,25.88,Low
+Charminar,1343503,Sunday,Sunny,No,Yes,45.88,Medium
+Charminar,1343503,Sunday,Cloudy,No,Yes,45.88,Medium
+Charminar,1343503,Sunday,Rainy,No,Yes,35.88,Low
+Charminar,1343503,Monday,Sunny,Yes,Yes,35.88,Low
+Charminar,1343503,Monday,Cloudy,Yes,Yes,35.88,Low
+Charminar,1343503,Monday,Rainy,Yes,Yes,25.88,Low
+Charminar,1343503,Tuesday,Sunny,Yes,Yes,35.88,Low
+Charminar,1343503,Tuesday,Cloudy,Yes,Yes,35.88,Low
+Charminar,1343503,Tuesday,Rainy,Yes,Yes,25.88,Low
+Charminar,1343503,Wednesday,Sunny,Yes,Yes,35.88,Low
+Charminar,1343503,Wednesday,Cloudy,Yes,Yes,35.88,Low
+Charminar,1343503,Wednesday,Rainy,Yes,Yes,25.88,Low
+Charminar,1343503,Thursday,Sunny,Yes,Yes,35.88,Low
+Charminar,1343503,Thursday,Cloudy,Yes,Yes,35.88,Low
+Charminar,1343503,Thursday,Rainy,Yes,Yes,25.88,Low
+Charminar,1343503,Friday,Sunny,Yes,Yes,45.88,Medium
+Charminar,1343503,Friday,Cloudy,Yes,Yes,45.88,Medium
+Charminar,1343503,Friday,Rainy,Yes,Yes,35.88,Low
+Charminar,1343503,Saturday,Sunny,Yes,Yes,45.88,Medium
+Charminar,1343503,Saturday,Cloudy,Yes,Yes,45.88,Medium
+Charminar,1343503,Saturday,Rainy,Yes,Yes,35.88,Low
+Charminar,1343503,Sunday,Sunny,Yes,Yes,55.88,Medium
+Charminar,1343503,Sunday,Cloudy,Yes,Yes,55.88,Medium
+Charminar,1343503,Sunday,Rainy,Yes,Yes,45.88,Medium
+Chandigarh,365591,Monday,Sunny,No,No,0.0,Low
+Chandigarh,365591,Monday,Cloudy,No,No,0.0,Low
+Chandigarh,365591,Monday,Rainy,No,No,0.0,Low
+Chandigarh,365591,Tuesday,Sunny,No,No,0.0,Low
+Chandigarh,365591,Tuesday,Cloudy,No,No,0.0,Low
+Chandigarh,365591,Tuesday,Rainy,No,No,0.0,Low
+Chandigarh,365591,Wednesday,Sunny,No,No,0.0,Low
+Chandigarh,365591,Wednesday,Cloudy,No,No,0.0,Low
+Chandigarh,365591,Wednesday,Rainy,No,No,0.0,Low
+Chandigarh,365591,Thursday,Sunny,No,No,0.0,Low
+Chandigarh,365591,Thursday,Cloudy,No,No,0.0,Low
+Chandigarh,365591,Thursday,Rainy,No,No,0.0,Low
+Chandigarh,365591,Friday,Sunny,No,No,10.0,Low
+Chandigarh,365591,Friday,Cloudy,No,No,10.0,Low
+Chandigarh,365591,Friday,Rainy,No,No,0.0,Low
+Chandigarh,365591,Saturday,Sunny,No,No,10.0,Low
+Chandigarh,365591,Saturday,Cloudy,No,No,10.0,Low
+Chandigarh,365591,Saturday,Rainy,No,No,0.0,Low
+Chandigarh,365591,Sunday,Sunny,No,No,20.0,Low
+Chandigarh,365591,Sunday,Cloudy,No,No,20.0,Low
+Chandigarh,365591,Sunday,Rainy,No,No,10.0,Low
+Chandigarh,365591,Monday,Sunny,Yes,No,10.0,Low
+Chandigarh,365591,Monday,Cloudy,Yes,No,10.0,Low
+Chandigarh,365591,Monday,Rainy,Yes,No,0.0,Low
+Chandigarh,365591,Tuesday,Sunny,Yes,No,10.0,Low
+Chandigarh,365591,Tuesday,Cloudy,Yes,No,10.0,Low
+Chandigarh,365591,Tuesday,Rainy,Yes,No,0.0,Low
+Chandigarh,365591,Wednesday,Sunny,Yes,No,10.0,Low
+Chandigarh,365591,Wednesday,Cloudy,Yes,No,10.0,Low
+Chandigarh,365591,Wednesday,Rainy,Yes,No,0.0,Low
+Chandigarh,365591,Thursday,Sunny,Yes,No,10.0,Low
+Chandigarh,365591,Thursday,Cloudy,Yes,No,10.0,Low
+Chandigarh,365591,Thursday,Rainy,Yes,No,0.0,Low
+Chandigarh,365591,Friday,Sunny,Yes,No,20.0,Low
+Chandigarh,365591,Friday,Cloudy,Yes,No,20.0,Low
+Chandigarh,365591,Friday,Rainy,Yes,No,10.0,Low
+Chandigarh,365591,Saturday,Sunny,Yes,No,20.0,Low
+Chandigarh,365591,Saturday,Cloudy,Yes,No,20.0,Low
+Chandigarh,365591,Saturday,Rainy,Yes,No,10.0,Low
+Chandigarh,365591,Sunday,Sunny,Yes,No,30.0,Low
+Chandigarh,365591,Sunday,Cloudy,Yes,No,30.0,Low
+Chandigarh,365591,Sunday,Rainy,Yes,No,20.0,Low
+Chandigarh,365591,Monday,Sunny,No,Yes,15.0,Low
+Chandigarh,365591,Monday,Cloudy,No,Yes,15.0,Low
+Chandigarh,365591,Monday,Rainy,No,Yes,5.0,Low
+Chandigarh,365591,Tuesday,Sunny,No,Yes,15.0,Low
+Chandigarh,365591,Tuesday,Cloudy,No,Yes,15.0,Low
+Chandigarh,365591,Tuesday,Rainy,No,Yes,5.0,Low
+Chandigarh,365591,Wednesday,Sunny,No,Yes,15.0,Low
+Chandigarh,365591,Wednesday,Cloudy,No,Yes,15.0,Low
+Chandigarh,365591,Wednesday,Rainy,No,Yes,5.0,Low
+Chandigarh,365591,Thursday,Sunny,No,Yes,15.0,Low
+Chandigarh,365591,Thursday,Cloudy,No,Yes,15.0,Low
+Chandigarh,365591,Thursday,Rainy,No,Yes,5.0,Low
+Chandigarh,365591,Friday,Sunny,No,Yes,25.0,Low
+Chandigarh,365591,Friday,Cloudy,No,Yes,25.0,Low
+Chandigarh,365591,Friday,Rainy,No,Yes,15.0,Low
+Chandigarh,365591,Saturday,Sunny,No,Yes,25.0,Low
+Chandigarh,365591,Saturday,Cloudy,No,Yes,25.0,Low
+Chandigarh,365591,Saturday,Rainy,No,Yes,15.0,Low
+Chandigarh,365591,Sunday,Sunny,No,Yes,35.0,Low
+Chandigarh,365591,Sunday,Cloudy,No,Yes,35.0,Low
+Chandigarh,365591,Sunday,Rainy,No,Yes,25.0,Low
+Chandigarh,365591,Monday,Sunny,Yes,Yes,25.0,Low
+Chandigarh,365591,Monday,Cloudy,Yes,Yes,25.0,Low
+Chandigarh,365591,Monday,Rainy,Yes,Yes,15.0,Low
+Chandigarh,365591,Tuesday,Sunny,Yes,Yes,25.0,Low
+Chandigarh,365591,Tuesday,Cloudy,Yes,Yes,25.0,Low
+Chandigarh,365591,Tuesday,Rainy,Yes,Yes,15.0,Low
+Chandigarh,365591,Wednesday,Sunny,Yes,Yes,25.0,Low
+Chandigarh,365591,Wednesday,Cloudy,Yes,Yes,25.0,Low
+Chandigarh,365591,Wednesday,Rainy,Yes,Yes,15.0,Low
+Chandigarh,365591,Thursday,Sunny,Yes,Yes,25.0,Low
+Chandigarh,365591,Thursday,Cloudy,Yes,Yes,25.0,Low
+Chandigarh,365591,Thursday,Rainy,Yes,Yes,15.0,Low
+Chandigarh,365591,Friday,Sunny,Yes,Yes,35.0,Low
+Chandigarh,365591,Friday,Cloudy,Yes,Yes,35.0,Low
+Chandigarh,365591,Friday,Rainy,Yes,Yes,25.0,Low
+Chandigarh,365591,Saturday,Sunny,Yes,Yes,35.0,Low
+Chandigarh,365591,Saturday,Cloudy,Yes,Yes,35.0,Low
+Chandigarh,365591,Saturday,Rainy,Yes,Yes,25.0,Low
+Chandigarh,365591,Sunday,Sunny,Yes,Yes,45.0,Medium
+Chandigarh,365591,Sunday,Cloudy,Yes,Yes,45.0,Medium
+Chandigarh,365591,Sunday,Rainy,Yes,Yes,35.0,Low
+Goa,8175460,Monday,Sunny,No,No,25.98,Low
+Goa,8175460,Monday,Cloudy,No,No,25.98,Low
+Goa,8175460,Monday,Rainy,No,No,15.98,Low
+Goa,8175460,Tuesday,Sunny,No,No,25.98,Low
+Goa,8175460,Tuesday,Cloudy,No,No,25.98,Low
+Goa,8175460,Tuesday,Rainy,No,No,15.98,Low
+Goa,8175460,Wednesday,Sunny,No,No,25.98,Low
+Goa,8175460,Wednesday,Cloudy,No,No,25.98,Low
+Goa,8175460,Wednesday,Rainy,No,No,15.98,Low
+Goa,8175460,Thursday,Sunny,No,No,25.98,Low
+Goa,8175460,Thursday,Cloudy,No,No,25.98,Low
+Goa,8175460,Thursday,Rainy,No,No,15.98,Low
+Goa,8175460,Friday,Sunny,No,No,35.98,Low
+Goa,8175460,Friday,Cloudy,No,No,35.98,Low
+Goa,8175460,Friday,Rainy,No,No,25.98,Low
+Goa,8175460,Saturday,Sunny,No,No,35.98,Low
+Goa,8175460,Saturday,Cloudy,No,No,35.98,Low
+Goa,8175460,Saturday,Rainy,No,No,25.98,Low
+Goa,8175460,Sunday,Sunny,No,No,45.98,Medium
+Goa,8175460,Sunday,Cloudy,No,No,45.98,Medium
+Goa,8175460,Sunday,Rainy,No,No,35.98,Low
+Goa,8175460,Monday,Sunny,Yes,No,35.98,Low
+Goa,8175460,Monday,Cloudy,Yes,No,35.98,Low
+Goa,8175460,Monday,Rainy,Yes,No,25.98,Low
+Goa,8175460,Tuesday,Sunny,Yes,No,35.98,Low
+Goa,8175460,Tuesday,Cloudy,Yes,No,35.98,Low
+Goa,8175460,Tuesday,Rainy,Yes,No,25.98,Low
+Goa,8175460,Wednesday,Sunny,Yes,No,35.98,Low
+Goa,8175460,Wednesday,Cloudy,Yes,No,35.98,Low
+Goa,8175460,Wednesday,Rainy,Yes,No,25.98,Low
+Goa,8175460,Thursday,Sunny,Yes,No,35.98,Low
+Goa,8175460,Thursday,Cloudy,Yes,No,35.98,Low
+Goa,8175460,Thursday,Rainy,Yes,No,25.98,Low
+Goa,8175460,Friday,Sunny,Yes,No,45.98,Medium
+Goa,8175460,Friday,Cloudy,Yes,No,45.98,Medium
+Goa,8175460,Friday,Rainy,Yes,No,35.98,Low
+Goa,8175460,Saturday,Sunny,Yes,No,45.98,Medium
+Goa,8175460,Saturday,Cloudy,Yes,No,45.98,Medium
+Goa,8175460,Saturday,Rainy,Yes,No,35.98,Low
+Goa,8175460,Sunday,Sunny,Yes,No,55.98,Medium
+Goa,8175460,Sunday,Cloudy,Yes,No,55.98,Medium
+Goa,8175460,Sunday,Rainy,Yes,No,45.98,Medium
+Goa,8175460,Monday,Sunny,No,Yes,40.98,Medium
+Goa,8175460,Monday,Cloudy,No,Yes,40.98,Medium
+Goa,8175460,Monday,Rainy,No,Yes,30.98,Low
+Goa,8175460,Tuesday,Sunny,No,Yes,40.98,Medium
+Goa,8175460,Tuesday,Cloudy,No,Yes,40.98,Medium
+Goa,8175460,Tuesday,Rainy,No,Yes,30.98,Low
+Goa,8175460,Wednesday,Sunny,No,Yes,40.98,Medium
+Goa,8175460,Wednesday,Cloudy,No,Yes,40.98,Medium
+Goa,8175460,Wednesday,Rainy,No,Yes,30.98,Low
+Goa,8175460,Thursday,Sunny,No,Yes,40.98,Medium
+Goa,8175460,Thursday,Cloudy,No,Yes,40.98,Medium
+Goa,8175460,Thursday,Rainy,No,Yes,30.98,Low
+Goa,8175460,Friday,Sunny,No,Yes,50.98,Medium
+Goa,8175460,Friday,Cloudy,No,Yes,50.98,Medium
+Goa,8175460,Friday,Rainy,No,Yes,40.98,Medium
+Goa,8175460,Saturday,Sunny,No,Yes,50.98,Medium
+Goa,8175460,Saturday,Cloudy,No,Yes,50.98,Medium
+Goa,8175460,Saturday,Rainy,No,Yes,40.98,Medium
+Goa,8175460,Sunday,Sunny,No,Yes,60.98,Medium
+Goa,8175460,Sunday,Cloudy,No,Yes,60.98,Medium
+Goa,8175460,Sunday,Rainy,No,Yes,50.98,Medium
+Goa,8175460,Monday,Sunny,Yes,Yes,50.98,Medium
+Goa,8175460,Monday,Cloudy,Yes,Yes,50.98,Medium
+Goa,8175460,Monday,Rainy,Yes,Yes,40.98,Medium
+Goa,8175460,Tuesday,Sunny,Yes,Yes,50.98,Medium
+Goa,8175460,Tuesday,Cloudy,Yes,Yes,50.98,Medium
+Goa,8175460,Tuesday,Rainy,Yes,Yes,40.98,Medium
+Goa,8175460,Wednesday,Sunny,Yes,Yes,50.98,Medium
+Goa,8175460,Wednesday,Cloudy,Yes,Yes,50.98,Medium
+Goa,8175460,Wednesday,Rainy,Yes,Yes,40.98,Medium
+Goa,8175460,Thursday,Sunny,Yes,Yes,50.98,Medium
+Goa,8175460,Thursday,Cloudy,Yes,Yes,50.98,Medium
+Goa,8175460,Thursday,Rainy,Yes,Yes,40.98,Medium
+Goa,8175460,Friday,Sunny,Yes,Yes,60.98,Medium
+Goa,8175460,Friday,Cloudy,Yes,Yes,60.98,Medium
+Goa,8175460,Friday,Rainy,Yes,Yes,50.98,Medium
+Goa,8175460,Saturday,Sunny,Yes,Yes,60.98,Medium
+Goa,8175460,Saturday,Cloudy,Yes,Yes,60.98,Medium
+Goa,8175460,Saturday,Rainy,Yes,Yes,50.98,Medium
+Goa,8175460,Sunday,Sunny,Yes,Yes,70.98,High
+Goa,8175460,Sunday,Cloudy,Yes,Yes,70.98,High
+Goa,8175460,Sunday,Rainy,Yes,Yes,60.98,Medium
+Delhi,39414622,Monday,Sunny,No,No,39.13,Low
+Delhi,39414622,Monday,Cloudy,No,No,39.13,Low
+Delhi,39414622,Monday,Rainy,No,No,29.13,Low
+Delhi,39414622,Tuesday,Sunny,No,No,39.13,Low
+Delhi,39414622,Tuesday,Cloudy,No,No,39.13,Low
+Delhi,39414622,Tuesday,Rainy,No,No,29.13,Low
+Delhi,39414622,Wednesday,Sunny,No,No,39.13,Low
+Delhi,39414622,Wednesday,Cloudy,No,No,39.13,Low
+Delhi,39414622,Wednesday,Rainy,No,No,29.13,Low
+Delhi,39414622,Thursday,Sunny,No,No,39.13,Low
+Delhi,39414622,Thursday,Cloudy,No,No,39.13,Low
+Delhi,39414622,Thursday,Rainy,No,No,29.13,Low
+Delhi,39414622,Friday,Sunny,No,No,49.13,Medium
+Delhi,39414622,Friday,Cloudy,No,No,49.13,Medium
+Delhi,39414622,Friday,Rainy,No,No,39.13,Low
+Delhi,39414622,Saturday,Sunny,No,No,49.13,Medium
+Delhi,39414622,Saturday,Cloudy,No,No,49.13,Medium
+Delhi,39414622,Saturday,Rainy,No,No,39.13,Low
+Delhi,39414622,Sunday,Sunny,No,No,59.13,Medium
+Delhi,39414622,Sunday,Cloudy,No,No,59.13,Medium
+Delhi,39414622,Sunday,Rainy,No,No,49.13,Medium
+Delhi,39414622,Monday,Sunny,Yes,No,49.13,Medium
+Delhi,39414622,Monday,Cloudy,Yes,No,49.13,Medium
+Delhi,39414622,Monday,Rainy,Yes,No,39.13,Low
+Delhi,39414622,Tuesday,Sunny,Yes,No,49.13,Medium
+Delhi,39414622,Tuesday,Cloudy,Yes,No,49.13,Medium
+Delhi,39414622,Tuesday,Rainy,Yes,No,39.13,Low
+Delhi,39414622,Wednesday,Sunny,Yes,No,49.13,Medium
+Delhi,39414622,Wednesday,Cloudy,Yes,No,49.13,Medium
+Delhi,39414622,Wednesday,Rainy,Yes,No,39.13,Low
+Delhi,39414622,Thursday,Sunny,Yes,No,49.13,Medium
+Delhi,39414622,Thursday,Cloudy,Yes,No,49.13,Medium
+Delhi,39414622,Thursday,Rainy,Yes,No,39.13,Low
+Delhi,39414622,Friday,Sunny,Yes,No,59.13,Medium
+Delhi,39414622,Friday,Cloudy,Yes,No,59.13,Medium
+Delhi,39414622,Friday,Rainy,Yes,No,49.13,Medium
+Delhi,39414622,Saturday,Sunny,Yes,No,59.13,Medium
+Delhi,39414622,Saturday,Cloudy,Yes,No,59.13,Medium
+Delhi,39414622,Saturday,Rainy,Yes,No,49.13,Medium
+Delhi,39414622,Sunday,Sunny,Yes,No,69.13,Medium
+Delhi,39414622,Sunday,Cloudy,Yes,No,69.13,Medium
+Delhi,39414622,Sunday,Rainy,Yes,No,59.13,Medium
+Delhi,39414622,Monday,Sunny,No,Yes,54.13,Medium
+Delhi,39414622,Monday,Cloudy,No,Yes,54.13,Medium
+Delhi,39414622,Monday,Rainy,No,Yes,44.13,Medium
+Delhi,39414622,Tuesday,Sunny,No,Yes,54.13,Medium
+Delhi,39414622,Tuesday,Cloudy,No,Yes,54.13,Medium
+Delhi,39414622,Tuesday,Rainy,No,Yes,44.13,Medium
+Delhi,39414622,Wednesday,Sunny,No,Yes,54.13,Medium
+Delhi,39414622,Wednesday,Cloudy,No,Yes,54.13,Medium
+Delhi,39414622,Wednesday,Rainy,No,Yes,44.13,Medium
+Delhi,39414622,Thursday,Sunny,No,Yes,54.13,Medium
+Delhi,39414622,Thursday,Cloudy,No,Yes,54.13,Medium
+Delhi,39414622,Thursday,Rainy,No,Yes,44.13,Medium
+Delhi,39414622,Friday,Sunny,No,Yes,64.13,Medium
+Delhi,39414622,Friday,Cloudy,No,Yes,64.13,Medium
+Delhi,39414622,Friday,Rainy,No,Yes,54.13,Medium
+Delhi,39414622,Saturday,Sunny,No,Yes,64.13,Medium
+Delhi,39414622,Saturday,Cloudy,No,Yes,64.13,Medium
+Delhi,39414622,Saturday,Rainy,No,Yes,54.13,Medium
+Delhi,39414622,Sunday,Sunny,No,Yes,74.13,High
+Delhi,39414622,Sunday,Cloudy,No,Yes,74.13,High
+Delhi,39414622,Sunday,Rainy,No,Yes,64.13,Medium
+Delhi,39414622,Monday,Sunny,Yes,Yes,64.13,Medium
+Delhi,39414622,Monday,Cloudy,Yes,Yes,64.13,Medium
+Delhi,39414622,Monday,Rainy,Yes,Yes,54.13,Medium
+Delhi,39414622,Tuesday,Sunny,Yes,Yes,64.13,Medium
+Delhi,39414622,Tuesday,Cloudy,Yes,Yes,64.13,Medium
+Delhi,39414622,Tuesday,Rainy,Yes,Yes,54.13,Medium
+Delhi,39414622,Wednesday,Sunny,Yes,Yes,64.13,Medium
+Delhi,39414622,Wednesday,Cloudy,Yes,Yes,64.13,Medium
+Delhi,39414622,Wednesday,Rainy,Yes,Yes,54.13,Medium
+Delhi,39414622,Thursday,Sunny,Yes,Yes,64.13,Medium
+Delhi,39414622,Thursday,Cloudy,Yes,Yes,64.13,Medium
+Delhi,39414622,Thursday,Rainy,Yes,Yes,54.13,Medium
+Delhi,39414622,Friday,Sunny,Yes,Yes,74.13,High
+Delhi,39414622,Friday,Cloudy,Yes,Yes,74.13,High
+Delhi,39414622,Friday,Rainy,Yes,Yes,64.13,Medium
+Delhi,39414622,Saturday,Sunny,Yes,Yes,74.13,High
+Delhi,39414622,Saturday,Cloudy,Yes,Yes,74.13,High
+Delhi,39414622,Saturday,Rainy,Yes,Yes,64.13,Medium
+Delhi,39414622,Sunday,Sunny,Yes,Yes,84.13,High
+Delhi,39414622,Sunday,Cloudy,Yes,Yes,84.13,High
+Delhi,39414622,Sunday,Rainy,Yes,Yes,74.13,High
+Rajasthan,179050000,Monday,Sunny,No,No,51.78,Medium
+Rajasthan,179050000,Monday,Cloudy,No,No,51.78,Medium
+Rajasthan,179050000,Monday,Rainy,No,No,41.78,Medium
+Rajasthan,179050000,Tuesday,Sunny,No,No,51.78,Medium
+Rajasthan,179050000,Tuesday,Cloudy,No,No,51.78,Medium
+Rajasthan,179050000,Tuesday,Rainy,No,No,41.78,Medium
+Rajasthan,179050000,Wednesday,Sunny,No,No,51.78,Medium
+Rajasthan,179050000,Wednesday,Cloudy,No,No,51.78,Medium
+Rajasthan,179050000,Wednesday,Rainy,No,No,41.78,Medium
+Rajasthan,179050000,Thursday,Sunny,No,No,51.78,Medium
+Rajasthan,179050000,Thursday,Cloudy,No,No,51.78,Medium
+Rajasthan,179050000,Thursday,Rainy,No,No,41.78,Medium
+Rajasthan,179050000,Friday,Sunny,No,No,61.78,Medium
+Rajasthan,179050000,Friday,Cloudy,No,No,61.78,Medium
+Rajasthan,179050000,Friday,Rainy,No,No,51.78,Medium
+Rajasthan,179050000,Saturday,Sunny,No,No,61.78,Medium
+Rajasthan,179050000,Saturday,Cloudy,No,No,61.78,Medium
+Rajasthan,179050000,Saturday,Rainy,No,No,51.78,Medium
+Rajasthan,179050000,Sunday,Sunny,No,No,71.78,High
+Rajasthan,179050000,Sunday,Cloudy,No,No,71.78,High
+Rajasthan,179050000,Sunday,Rainy,No,No,61.78,Medium
+Rajasthan,179050000,Monday,Sunny,Yes,No,61.78,Medium
+Rajasthan,179050000,Monday,Cloudy,Yes,No,61.78,Medium
+Rajasthan,179050000,Monday,Rainy,Yes,No,51.78,Medium
+Rajasthan,179050000,Tuesday,Sunny,Yes,No,61.78,Medium
+Rajasthan,179050000,Tuesday,Cloudy,Yes,No,61.78,Medium
+Rajasthan,179050000,Tuesday,Rainy,Yes,No,51.78,Medium
+Rajasthan,179050000,Wednesday,Sunny,Yes,No,61.78,Medium
+Rajasthan,179050000,Wednesday,Cloudy,Yes,No,61.78,Medium
+Rajasthan,179050000,Wednesday,Rainy,Yes,No,51.78,Medium
+Rajasthan,179050000,Thursday,Sunny,Yes,No,61.78,Medium
+Rajasthan,179050000,Thursday,Cloudy,Yes,No,61.78,Medium
+Rajasthan,179050000,Thursday,Rainy,Yes,No,51.78,Medium
+Rajasthan,179050000,Friday,Sunny,Yes,No,71.78,High
+Rajasthan,179050000,Friday,Cloudy,Yes,No,71.78,High
+Rajasthan,179050000,Friday,Rainy,Yes,No,61.78,Medium
+Rajasthan,179050000,Saturday,Sunny,Yes,No,71.78,High
+Rajasthan,179050000,Saturday,Cloudy,Yes,No,71.78,High
+Rajasthan,179050000,Saturday,Rainy,Yes,No,61.78,Medium
+Rajasthan,179050000,Sunday,Sunny,Yes,No,81.78,High
+Rajasthan,179050000,Sunday,Cloudy,Yes,No,81.78,High
+Rajasthan,179050000,Sunday,Rainy,Yes,No,71.78,High
+Rajasthan,179050000,Monday,Sunny,No,Yes,66.78,Medium
+Rajasthan,179050000,Monday,Cloudy,No,Yes,66.78,Medium
+Rajasthan,179050000,Monday,Rainy,No,Yes,56.78,Medium
+Rajasthan,179050000,Tuesday,Sunny,No,Yes,66.78,Medium
+Rajasthan,179050000,Tuesday,Cloudy,No,Yes,66.78,Medium
+Rajasthan,179050000,Tuesday,Rainy,No,Yes,56.78,Medium
+Rajasthan,179050000,Wednesday,Sunny,No,Yes,66.78,Medium
+Rajasthan,179050000,Wednesday,Cloudy,No,Yes,66.78,Medium
+Rajasthan,179050000,Wednesday,Rainy,No,Yes,56.78,Medium
+Rajasthan,179050000,Thursday,Sunny,No,Yes,66.78,Medium
+Rajasthan,179050000,Thursday,Cloudy,No,Yes,66.78,Medium
+Rajasthan,179050000,Thursday,Rainy,No,Yes,56.78,Medium
+Rajasthan,179050000,Friday,Sunny,No,Yes,76.78,High
+Rajasthan,179050000,Friday,Cloudy,No,Yes,76.78,High
+Rajasthan,179050000,Friday,Rainy,No,Yes,66.78,Medium
+Rajasthan,179050000,Saturday,Sunny,No,Yes,76.78,High
+Rajasthan,179050000,Saturday,Cloudy,No,Yes,76.78,High
+Rajasthan,179050000,Saturday,Rainy,No,Yes,66.78,Medium
+Rajasthan,179050000,Sunday,Sunny,No,Yes,86.78,High
+Rajasthan,179050000,Sunday,Cloudy,No,Yes,86.78,High
+Rajasthan,179050000,Sunday,Rainy,No,Yes,76.78,High
+Rajasthan,179050000,Monday,Sunny,Yes,Yes,76.78,High
+Rajasthan,179050000,Monday,Cloudy,Yes,Yes,76.78,High
+Rajasthan,179050000,Monday,Rainy,Yes,Yes,66.78,Medium
+Rajasthan,179050000,Tuesday,Sunny,Yes,Yes,76.78,High
+Rajasthan,179050000,Tuesday,Cloudy,Yes,Yes,76.78,High
+Rajasthan,179050000,Tuesday,Rainy,Yes,Yes,66.78,Medium
+Rajasthan,179050000,Wednesday,Sunny,Yes,Yes,76.78,High
+Rajasthan,179050000,Wednesday,Cloudy,Yes,Yes,76.78,High
+Rajasthan,179050000,Wednesday,Rainy,Yes,Yes,66.78,Medium
+Rajasthan,179050000,Thursday,Sunny,Yes,Yes,76.78,High
+Rajasthan,179050000,Thursday,Cloudy,Yes,Yes,76.78,High
+Rajasthan,179050000,Thursday,Rainy,Yes,Yes,66.78,Medium
+Rajasthan,179050000,Friday,Sunny,Yes,Yes,86.78,High
+Rajasthan,179050000,Friday,Cloudy,Yes,Yes,86.78,High
+Rajasthan,179050000,Friday,Rainy,Yes,Yes,76.78,High
+Rajasthan,179050000,Saturday,Sunny,Yes,Yes,86.78,High
+Rajasthan,179050000,Saturday,Cloudy,Yes,Yes,86.78,High
+Rajasthan,179050000,Saturday,Rainy,Yes,Yes,76.78,High
+Rajasthan,179050000,Sunday,Sunny,Yes,Yes,96.78,High
+Rajasthan,179050000,Sunday,Cloudy,Yes,Yes,96.78,High
+Rajasthan,179050000,Sunday,Rainy,Yes,Yes,86.78,High
+Uttar Pradesh,478530000,Monday,Sunny,No,No,60.0,Medium
+Uttar Pradesh,478530000,Monday,Cloudy,No,No,60.0,Medium
+Uttar Pradesh,478530000,Monday,Rainy,No,No,50.0,Medium
+Uttar Pradesh,478530000,Tuesday,Sunny,No,No,60.0,Medium
+Uttar Pradesh,478530000,Tuesday,Cloudy,No,No,60.0,Medium
+Uttar Pradesh,478530000,Tuesday,Rainy,No,No,50.0,Medium
+Uttar Pradesh,478530000,Wednesday,Sunny,No,No,60.0,Medium
+Uttar Pradesh,478530000,Wednesday,Cloudy,No,No,60.0,Medium
+Uttar Pradesh,478530000,Wednesday,Rainy,No,No,50.0,Medium
+Uttar Pradesh,478530000,Thursday,Sunny,No,No,60.0,Medium
+Uttar Pradesh,478530000,Thursday,Cloudy,No,No,60.0,Medium
+Uttar Pradesh,478530000,Thursday,Rainy,No,No,50.0,Medium
+Uttar Pradesh,478530000,Friday,Sunny,No,No,70.0,High
+Uttar Pradesh,478530000,Friday,Cloudy,No,No,70.0,High
+Uttar Pradesh,478530000,Friday,Rainy,No,No,60.0,Medium
+Uttar Pradesh,478530000,Saturday,Sunny,No,No,70.0,High
+Uttar Pradesh,478530000,Saturday,Cloudy,No,No,70.0,High
+Uttar Pradesh,478530000,Saturday,Rainy,No,No,60.0,Medium
+Uttar Pradesh,478530000,Sunday,Sunny,No,No,80.0,High
+Uttar Pradesh,478530000,Sunday,Cloudy,No,No,80.0,High
+Uttar Pradesh,478530000,Sunday,Rainy,No,No,70.0,High
+Uttar Pradesh,478530000,Monday,Sunny,Yes,No,70.0,High
+Uttar Pradesh,478530000,Monday,Cloudy,Yes,No,70.0,High
+Uttar Pradesh,478530000,Monday,Rainy,Yes,No,60.0,Medium
+Uttar Pradesh,478530000,Tuesday,Sunny,Yes,No,70.0,High
+Uttar Pradesh,478530000,Tuesday,Cloudy,Yes,No,70.0,High
+Uttar Pradesh,478530000,Tuesday,Rainy,Yes,No,60.0,Medium
+Uttar Pradesh,478530000,Wednesday,Sunny,Yes,No,70.0,High
+Uttar Pradesh,478530000,Wednesday,Cloudy,Yes,No,70.0,High
+Uttar Pradesh,478530000,Wednesday,Rainy,Yes,No,60.0,Medium
+Uttar Pradesh,478530000,Thursday,Sunny,Yes,No,70.0,High
+Uttar Pradesh,478530000,Thursday,Cloudy,Yes,No,70.0,High
+Uttar Pradesh,478530000,Thursday,Rainy,Yes,No,60.0,Medium
+Uttar Pradesh,478530000,Friday,Sunny,Yes,No,80.0,High
+Uttar Pradesh,478530000,Friday,Cloudy,Yes,No,80.0,High
+Uttar Pradesh,478530000,Friday,Rainy,Yes,No,70.0,High
+Uttar Pradesh,478530000,Saturday,Sunny,Yes,No,80.0,High
+Uttar Pradesh,478530000,Saturday,Cloudy,Yes,No,80.0,High
+Uttar Pradesh,478530000,Saturday,Rainy,Yes,No,70.0,High
+Uttar Pradesh,478530000,Sunday,Sunny,Yes,No,90.0,High
+Uttar Pradesh,478530000,Sunday,Cloudy,Yes,No,90.0,High
+Uttar Pradesh,478530000,Sunday,Rainy,Yes,No,80.0,High
+Uttar Pradesh,478530000,Monday,Sunny,No,Yes,75.0,High
+Uttar Pradesh,478530000,Monday,Cloudy,No,Yes,75.0,High
+Uttar Pradesh,478530000,Monday,Rainy,No,Yes,65.0,Medium
+Uttar Pradesh,478530000,Tuesday,Sunny,No,Yes,75.0,High
+Uttar Pradesh,478530000,Tuesday,Cloudy,No,Yes,75.0,High
+Uttar Pradesh,478530000,Tuesday,Rainy,No,Yes,65.0,Medium
+Uttar Pradesh,478530000,Wednesday,Sunny,No,Yes,75.0,High
+Uttar Pradesh,478530000,Wednesday,Cloudy,No,Yes,75.0,High
+Uttar Pradesh,478530000,Wednesday,Rainy,No,Yes,65.0,Medium
+Uttar Pradesh,478530000,Thursday,Sunny,No,Yes,75.0,High
+Uttar Pradesh,478530000,Thursday,Cloudy,No,Yes,75.0,High
+Uttar Pradesh,478530000,Thursday,Rainy,No,Yes,65.0,Medium
+Uttar Pradesh,478530000,Friday,Sunny,No,Yes,85.0,High
+Uttar Pradesh,478530000,Friday,Cloudy,No,Yes,85.0,High
+Uttar Pradesh,478530000,Friday,Rainy,No,Yes,75.0,High
+Uttar Pradesh,478530000,Saturday,Sunny,No,Yes,85.0,High
+Uttar Pradesh,478530000,Saturday,Cloudy,No,Yes,85.0,High
+Uttar Pradesh,478530000,Saturday,Rainy,No,Yes,75.0,High
+Uttar Pradesh,478530000,Sunday,Sunny,No,Yes,95.0,High
+Uttar Pradesh,478530000,Sunday,Cloudy,No,Yes,95.0,High
+Uttar Pradesh,478530000,Sunday,Rainy,No,Yes,85.0,High
+Uttar Pradesh,478530000,Monday,Sunny,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Monday,Cloudy,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Monday,Rainy,Yes,Yes,75.0,High
+Uttar Pradesh,478530000,Tuesday,Sunny,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Tuesday,Cloudy,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Tuesday,Rainy,Yes,Yes,75.0,High
+Uttar Pradesh,478530000,Wednesday,Sunny,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Wednesday,Cloudy,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Wednesday,Rainy,Yes,Yes,75.0,High
+Uttar Pradesh,478530000,Thursday,Sunny,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Thursday,Cloudy,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Thursday,Rainy,Yes,Yes,75.0,High
+Uttar Pradesh,478530000,Friday,Sunny,Yes,Yes,95.0,High
+Uttar Pradesh,478530000,Friday,Cloudy,Yes,Yes,95.0,High
+Uttar Pradesh,478530000,Friday,Rainy,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Saturday,Sunny,Yes,Yes,95.0,High
+Uttar Pradesh,478530000,Saturday,Cloudy,Yes,Yes,95.0,High
+Uttar Pradesh,478530000,Saturday,Rainy,Yes,Yes,85.0,High
+Uttar Pradesh,478530000,Sunday,Sunny,Yes,Yes,100.0,High
+Uttar Pradesh,478530000,Sunday,Cloudy,Yes,Yes,100.0,High
+Uttar Pradesh,478530000,Sunday,Rainy,Yes,Yes,95.0,High
+Himachal Pradesh,15942118,Monday,Sunny,No,No,31.56,Low
+Himachal Pradesh,15942118,Monday,Cloudy,No,No,31.56,Low
+Himachal Pradesh,15942118,Monday,Rainy,No,No,21.56,Low
+Himachal Pradesh,15942118,Tuesday,Sunny,No,No,31.56,Low
+Himachal Pradesh,15942118,Tuesday,Cloudy,No,No,31.56,Low
+Himachal Pradesh,15942118,Tuesday,Rainy,No,No,21.56,Low
+Himachal Pradesh,15942118,Wednesday,Sunny,No,No,31.56,Low
+Himachal Pradesh,15942118,Wednesday,Cloudy,No,No,31.56,Low
+Himachal Pradesh,15942118,Wednesday,Rainy,No,No,21.56,Low
+Himachal Pradesh,15942118,Thursday,Sunny,No,No,31.56,Low
+Himachal Pradesh,15942118,Thursday,Cloudy,No,No,31.56,Low
+Himachal Pradesh,15942118,Thursday,Rainy,No,No,21.56,Low
+Himachal Pradesh,15942118,Friday,Sunny,No,No,41.56,Medium
+Himachal Pradesh,15942118,Friday,Cloudy,No,No,41.56,Medium
+Himachal Pradesh,15942118,Friday,Rainy,No,No,31.56,Low
+Himachal Pradesh,15942118,Saturday,Sunny,No,No,41.56,Medium
+Himachal Pradesh,15942118,Saturday,Cloudy,No,No,41.56,Medium
+Himachal Pradesh,15942118,Saturday,Rainy,No,No,31.56,Low
+Himachal Pradesh,15942118,Sunday,Sunny,No,No,51.56,Medium
+Himachal Pradesh,15942118,Sunday,Cloudy,No,No,51.56,Medium
+Himachal Pradesh,15942118,Sunday,Rainy,No,No,41.56,Medium
+Himachal Pradesh,15942118,Monday,Sunny,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Monday,Cloudy,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Monday,Rainy,Yes,No,31.56,Low
+Himachal Pradesh,15942118,Tuesday,Sunny,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Tuesday,Cloudy,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Tuesday,Rainy,Yes,No,31.56,Low
+Himachal Pradesh,15942118,Wednesday,Sunny,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Wednesday,Cloudy,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Wednesday,Rainy,Yes,No,31.56,Low
+Himachal Pradesh,15942118,Thursday,Sunny,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Thursday,Cloudy,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Thursday,Rainy,Yes,No,31.56,Low
+Himachal Pradesh,15942118,Friday,Sunny,Yes,No,51.56,Medium
+Himachal Pradesh,15942118,Friday,Cloudy,Yes,No,51.56,Medium
+Himachal Pradesh,15942118,Friday,Rainy,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Saturday,Sunny,Yes,No,51.56,Medium
+Himachal Pradesh,15942118,Saturday,Cloudy,Yes,No,51.56,Medium
+Himachal Pradesh,15942118,Saturday,Rainy,Yes,No,41.56,Medium
+Himachal Pradesh,15942118,Sunday,Sunny,Yes,No,61.56,Medium
+Himachal Pradesh,15942118,Sunday,Cloudy,Yes,No,61.56,Medium
+Himachal Pradesh,15942118,Sunday,Rainy,Yes,No,51.56,Medium
+Himachal Pradesh,15942118,Monday,Sunny,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Monday,Cloudy,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Monday,Rainy,No,Yes,36.56,Low
+Himachal Pradesh,15942118,Tuesday,Sunny,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Tuesday,Cloudy,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Tuesday,Rainy,No,Yes,36.56,Low
+Himachal Pradesh,15942118,Wednesday,Sunny,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Wednesday,Cloudy,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Wednesday,Rainy,No,Yes,36.56,Low
+Himachal Pradesh,15942118,Thursday,Sunny,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Thursday,Cloudy,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Thursday,Rainy,No,Yes,36.56,Low
+Himachal Pradesh,15942118,Friday,Sunny,No,Yes,56.56,Medium
+Himachal Pradesh,15942118,Friday,Cloudy,No,Yes,56.56,Medium
+Himachal Pradesh,15942118,Friday,Rainy,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Saturday,Sunny,No,Yes,56.56,Medium
+Himachal Pradesh,15942118,Saturday,Cloudy,No,Yes,56.56,Medium
+Himachal Pradesh,15942118,Saturday,Rainy,No,Yes,46.56,Medium
+Himachal Pradesh,15942118,Sunday,Sunny,No,Yes,66.56,Medium
+Himachal Pradesh,15942118,Sunday,Cloudy,No,Yes,66.56,Medium
+Himachal Pradesh,15942118,Sunday,Rainy,No,Yes,56.56,Medium
+Himachal Pradesh,15942118,Monday,Sunny,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Monday,Cloudy,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Monday,Rainy,Yes,Yes,46.56,Medium
+Himachal Pradesh,15942118,Tuesday,Sunny,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Tuesday,Cloudy,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Tuesday,Rainy,Yes,Yes,46.56,Medium
+Himachal Pradesh,15942118,Wednesday,Sunny,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Wednesday,Cloudy,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Wednesday,Rainy,Yes,Yes,46.56,Medium
+Himachal Pradesh,15942118,Thursday,Sunny,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Thursday,Cloudy,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Thursday,Rainy,Yes,Yes,46.56,Medium
+Himachal Pradesh,15942118,Friday,Sunny,Yes,Yes,66.56,Medium
+Himachal Pradesh,15942118,Friday,Cloudy,Yes,Yes,66.56,Medium
+Himachal Pradesh,15942118,Friday,Rainy,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Saturday,Sunny,Yes,Yes,66.56,Medium
+Himachal Pradesh,15942118,Saturday,Cloudy,Yes,Yes,66.56,Medium
+Himachal Pradesh,15942118,Saturday,Rainy,Yes,Yes,56.56,Medium
+Himachal Pradesh,15942118,Sunday,Sunny,Yes,Yes,76.56,High
+Himachal Pradesh,15942118,Sunday,Cloudy,Yes,Yes,76.56,High
+Himachal Pradesh,15942118,Sunday,Rainy,Yes,Yes,66.56,Medium
+Jammu and Kashmir,20679336,Monday,Sunny,No,No,33.74,Low
+Jammu and Kashmir,20679336,Monday,Cloudy,No,No,33.74,Low
+Jammu and Kashmir,20679336,Monday,Rainy,No,No,23.74,Low
+Jammu and Kashmir,20679336,Tuesday,Sunny,No,No,33.74,Low
+Jammu and Kashmir,20679336,Tuesday,Cloudy,No,No,33.74,Low
+Jammu and Kashmir,20679336,Tuesday,Rainy,No,No,23.74,Low
+Jammu and Kashmir,20679336,Wednesday,Sunny,No,No,33.74,Low
+Jammu and Kashmir,20679336,Wednesday,Cloudy,No,No,33.74,Low
+Jammu and Kashmir,20679336,Wednesday,Rainy,No,No,23.74,Low
+Jammu and Kashmir,20679336,Thursday,Sunny,No,No,33.74,Low
+Jammu and Kashmir,20679336,Thursday,Cloudy,No,No,33.74,Low
+Jammu and Kashmir,20679336,Thursday,Rainy,No,No,23.74,Low
+Jammu and Kashmir,20679336,Friday,Sunny,No,No,43.74,Medium
+Jammu and Kashmir,20679336,Friday,Cloudy,No,No,43.74,Medium
+Jammu and Kashmir,20679336,Friday,Rainy,No,No,33.74,Low
+Jammu and Kashmir,20679336,Saturday,Sunny,No,No,43.74,Medium
+Jammu and Kashmir,20679336,Saturday,Cloudy,No,No,43.74,Medium
+Jammu and Kashmir,20679336,Saturday,Rainy,No,No,33.74,Low
+Jammu and Kashmir,20679336,Sunday,Sunny,No,No,53.74,Medium
+Jammu and Kashmir,20679336,Sunday,Cloudy,No,No,53.74,Medium
+Jammu and Kashmir,20679336,Sunday,Rainy,No,No,43.74,Medium
+Jammu and Kashmir,20679336,Monday,Sunny,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Monday,Cloudy,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Monday,Rainy,Yes,No,33.74,Low
+Jammu and Kashmir,20679336,Tuesday,Sunny,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Tuesday,Cloudy,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Tuesday,Rainy,Yes,No,33.74,Low
+Jammu and Kashmir,20679336,Wednesday,Sunny,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Wednesday,Cloudy,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Wednesday,Rainy,Yes,No,33.74,Low
+Jammu and Kashmir,20679336,Thursday,Sunny,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Thursday,Cloudy,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Thursday,Rainy,Yes,No,33.74,Low
+Jammu and Kashmir,20679336,Friday,Sunny,Yes,No,53.74,Medium
+Jammu and Kashmir,20679336,Friday,Cloudy,Yes,No,53.74,Medium
+Jammu and Kashmir,20679336,Friday,Rainy,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Saturday,Sunny,Yes,No,53.74,Medium
+Jammu and Kashmir,20679336,Saturday,Cloudy,Yes,No,53.74,Medium
+Jammu and Kashmir,20679336,Saturday,Rainy,Yes,No,43.74,Medium
+Jammu and Kashmir,20679336,Sunday,Sunny,Yes,No,63.74,Medium
+Jammu and Kashmir,20679336,Sunday,Cloudy,Yes,No,63.74,Medium
+Jammu and Kashmir,20679336,Sunday,Rainy,Yes,No,53.74,Medium
+Jammu and Kashmir,20679336,Monday,Sunny,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Monday,Cloudy,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Monday,Rainy,No,Yes,38.74,Low
+Jammu and Kashmir,20679336,Tuesday,Sunny,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Tuesday,Cloudy,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Tuesday,Rainy,No,Yes,38.74,Low
+Jammu and Kashmir,20679336,Wednesday,Sunny,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Wednesday,Cloudy,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Wednesday,Rainy,No,Yes,38.74,Low
+Jammu and Kashmir,20679336,Thursday,Sunny,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Thursday,Cloudy,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Thursday,Rainy,No,Yes,38.74,Low
+Jammu and Kashmir,20679336,Friday,Sunny,No,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Friday,Cloudy,No,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Friday,Rainy,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Saturday,Sunny,No,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Saturday,Cloudy,No,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Saturday,Rainy,No,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Sunday,Sunny,No,Yes,68.74,Medium
+Jammu and Kashmir,20679336,Sunday,Cloudy,No,Yes,68.74,Medium
+Jammu and Kashmir,20679336,Sunday,Rainy,No,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Monday,Sunny,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Monday,Cloudy,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Monday,Rainy,Yes,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Tuesday,Sunny,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Tuesday,Cloudy,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Tuesday,Rainy,Yes,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Wednesday,Sunny,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Wednesday,Cloudy,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Wednesday,Rainy,Yes,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Thursday,Sunny,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Thursday,Cloudy,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Thursday,Rainy,Yes,Yes,48.74,Medium
+Jammu and Kashmir,20679336,Friday,Sunny,Yes,Yes,68.74,Medium
+Jammu and Kashmir,20679336,Friday,Cloudy,Yes,Yes,68.74,Medium
+Jammu and Kashmir,20679336,Friday,Rainy,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Saturday,Sunny,Yes,Yes,68.74,Medium
+Jammu and Kashmir,20679336,Saturday,Cloudy,Yes,Yes,68.74,Medium
+Jammu and Kashmir,20679336,Saturday,Rainy,Yes,Yes,58.74,Medium
+Jammu and Kashmir,20679336,Sunday,Sunny,Yes,Yes,78.74,High
+Jammu and Kashmir,20679336,Sunday,Cloudy,Yes,Yes,78.74,High
+Jammu and Kashmir,20679336,Sunday,Rainy,Yes,Yes,68.74,Medium
+Gujarat,178066579,Monday,Sunny,No,No,51.74,Medium
+Gujarat,178066579,Monday,Cloudy,No,No,51.74,Medium
+Gujarat,178066579,Monday,Rainy,No,No,41.74,Medium
+Gujarat,178066579,Tuesday,Sunny,No,No,51.74,Medium
+Gujarat,178066579,Tuesday,Cloudy,No,No,51.74,Medium
+Gujarat,178066579,Tuesday,Rainy,No,No,41.74,Medium
+Gujarat,178066579,Wednesday,Sunny,No,No,51.74,Medium
+Gujarat,178066579,Wednesday,Cloudy,No,No,51.74,Medium
+Gujarat,178066579,Wednesday,Rainy,No,No,41.74,Medium
+Gujarat,178066579,Thursday,Sunny,No,No,51.74,Medium
+Gujarat,178066579,Thursday,Cloudy,No,No,51.74,Medium
+Gujarat,178066579,Thursday,Rainy,No,No,41.74,Medium
+Gujarat,178066579,Friday,Sunny,No,No,61.74,Medium
+Gujarat,178066579,Friday,Cloudy,No,No,61.74,Medium
+Gujarat,178066579,Friday,Rainy,No,No,51.74,Medium
+Gujarat,178066579,Saturday,Sunny,No,No,61.74,Medium
+Gujarat,178066579,Saturday,Cloudy,No,No,61.74,Medium
+Gujarat,178066579,Saturday,Rainy,No,No,51.74,Medium
+Gujarat,178066579,Sunday,Sunny,No,No,71.74,High
+Gujarat,178066579,Sunday,Cloudy,No,No,71.74,High
+Gujarat,178066579,Sunday,Rainy,No,No,61.74,Medium
+Gujarat,178066579,Monday,Sunny,Yes,No,61.74,Medium
+Gujarat,178066579,Monday,Cloudy,Yes,No,61.74,Medium
+Gujarat,178066579,Monday,Rainy,Yes,No,51.74,Medium
+Gujarat,178066579,Tuesday,Sunny,Yes,No,61.74,Medium
+Gujarat,178066579,Tuesday,Cloudy,Yes,No,61.74,Medium
+Gujarat,178066579,Tuesday,Rainy,Yes,No,51.74,Medium
+Gujarat,178066579,Wednesday,Sunny,Yes,No,61.74,Medium
+Gujarat,178066579,Wednesday,Cloudy,Yes,No,61.74,Medium
+Gujarat,178066579,Wednesday,Rainy,Yes,No,51.74,Medium
+Gujarat,178066579,Thursday,Sunny,Yes,No,61.74,Medium
+Gujarat,178066579,Thursday,Cloudy,Yes,No,61.74,Medium
+Gujarat,178066579,Thursday,Rainy,Yes,No,51.74,Medium
+Gujarat,178066579,Friday,Sunny,Yes,No,71.74,High
+Gujarat,178066579,Friday,Cloudy,Yes,No,71.74,High
+Gujarat,178066579,Friday,Rainy,Yes,No,61.74,Medium
+Gujarat,178066579,Saturday,Sunny,Yes,No,71.74,High
+Gujarat,178066579,Saturday,Cloudy,Yes,No,71.74,High
+Gujarat,178066579,Saturday,Rainy,Yes,No,61.74,Medium
+Gujarat,178066579,Sunday,Sunny,Yes,No,81.74,High
+Gujarat,178066579,Sunday,Cloudy,Yes,No,81.74,High
+Gujarat,178066579,Sunday,Rainy,Yes,No,71.74,High
+Gujarat,178066579,Monday,Sunny,No,Yes,66.74,Medium
+Gujarat,178066579,Monday,Cloudy,No,Yes,66.74,Medium
+Gujarat,178066579,Monday,Rainy,No,Yes,56.74,Medium
+Gujarat,178066579,Tuesday,Sunny,No,Yes,66.74,Medium
+Gujarat,178066579,Tuesday,Cloudy,No,Yes,66.74,Medium
+Gujarat,178066579,Tuesday,Rainy,No,Yes,56.74,Medium
+Gujarat,178066579,Wednesday,Sunny,No,Yes,66.74,Medium
+Gujarat,178066579,Wednesday,Cloudy,No,Yes,66.74,Medium
+Gujarat,178066579,Wednesday,Rainy,No,Yes,56.74,Medium
+Gujarat,178066579,Thursday,Sunny,No,Yes,66.74,Medium
+Gujarat,178066579,Thursday,Cloudy,No,Yes,66.74,Medium
+Gujarat,178066579,Thursday,Rainy,No,Yes,56.74,Medium
+Gujarat,178066579,Friday,Sunny,No,Yes,76.74,High
+Gujarat,178066579,Friday,Cloudy,No,Yes,76.74,High
+Gujarat,178066579,Friday,Rainy,No,Yes,66.74,Medium
+Gujarat,178066579,Saturday,Sunny,No,Yes,76.74,High
+Gujarat,178066579,Saturday,Cloudy,No,Yes,76.74,High
+Gujarat,178066579,Saturday,Rainy,No,Yes,66.74,Medium
+Gujarat,178066579,Sunday,Sunny,No,Yes,86.74,High
+Gujarat,178066579,Sunday,Cloudy,No,Yes,86.74,High
+Gujarat,178066579,Sunday,Rainy,No,Yes,76.74,High
+Gujarat,178066579,Monday,Sunny,Yes,Yes,76.74,High
+Gujarat,178066579,Monday,Cloudy,Yes,Yes,76.74,High
+Gujarat,178066579,Monday,Rainy,Yes,Yes,66.74,Medium
+Gujarat,178066579,Tuesday,Sunny,Yes,Yes,76.74,High
+Gujarat,178066579,Tuesday,Cloudy,Yes,Yes,76.74,High
+Gujarat,178066579,Tuesday,Rainy,Yes,Yes,66.74,Medium
+Gujarat,178066579,Wednesday,Sunny,Yes,Yes,76.74,High
+Gujarat,178066579,Wednesday,Cloudy,Yes,Yes,76.74,High
+Gujarat,178066579,Wednesday,Rainy,Yes,Yes,66.74,Medium
+Gujarat,178066579,Thursday,Sunny,Yes,Yes,76.74,High
+Gujarat,178066579,Thursday,Cloudy,Yes,Yes,76.74,High
+Gujarat,178066579,Thursday,Rainy,Yes,Yes,66.74,Medium
+Gujarat,178066579,Friday,Sunny,Yes,Yes,86.74,High
+Gujarat,178066579,Friday,Cloudy,Yes,Yes,86.74,High
+Gujarat,178066579,Friday,Rainy,Yes,Yes,76.74,High
+Gujarat,178066579,Saturday,Sunny,Yes,Yes,86.74,High
+Gujarat,178066579,Saturday,Cloudy,Yes,Yes,86.74,High
+Gujarat,178066579,Saturday,Rainy,Yes,Yes,76.74,High
+Gujarat,178066579,Sunday,Sunny,Yes,Yes,96.74,High
+Gujarat,178066579,Sunday,Cloudy,Yes,Yes,96.74,High
+Gujarat,178066579,Sunday,Rainy,Yes,Yes,86.74,High
+Kerala,7537617,Monday,Sunny,No,No,25.3,Low
+Kerala,7537617,Monday,Cloudy,No,No,25.3,Low
+Kerala,7537617,Monday,Rainy,No,No,15.3,Low
+Kerala,7537617,Tuesday,Sunny,No,No,25.3,Low
+Kerala,7537617,Tuesday,Cloudy,No,No,25.3,Low
+Kerala,7537617,Tuesday,Rainy,No,No,15.3,Low
+Kerala,7537617,Wednesday,Sunny,No,No,25.3,Low
+Kerala,7537617,Wednesday,Cloudy,No,No,25.3,Low
+Kerala,7537617,Wednesday,Rainy,No,No,15.3,Low
+Kerala,7537617,Thursday,Sunny,No,No,25.3,Low
+Kerala,7537617,Thursday,Cloudy,No,No,25.3,Low
+Kerala,7537617,Thursday,Rainy,No,No,15.3,Low
+Kerala,7537617,Friday,Sunny,No,No,35.3,Low
+Kerala,7537617,Friday,Cloudy,No,No,35.3,Low
+Kerala,7537617,Friday,Rainy,No,No,25.3,Low
+Kerala,7537617,Saturday,Sunny,No,No,35.3,Low
+Kerala,7537617,Saturday,Cloudy,No,No,35.3,Low
+Kerala,7537617,Saturday,Rainy,No,No,25.3,Low
+Kerala,7537617,Sunday,Sunny,No,No,45.3,Medium
+Kerala,7537617,Sunday,Cloudy,No,No,45.3,Medium
+Kerala,7537617,Sunday,Rainy,No,No,35.3,Low
+Kerala,7537617,Monday,Sunny,Yes,No,35.3,Low
+Kerala,7537617,Monday,Cloudy,Yes,No,35.3,Low
+Kerala,7537617,Monday,Rainy,Yes,No,25.3,Low
+Kerala,7537617,Tuesday,Sunny,Yes,No,35.3,Low
+Kerala,7537617,Tuesday,Cloudy,Yes,No,35.3,Low
+Kerala,7537617,Tuesday,Rainy,Yes,No,25.3,Low
+Kerala,7537617,Wednesday,Sunny,Yes,No,35.3,Low
+Kerala,7537617,Wednesday,Cloudy,Yes,No,35.3,Low
+Kerala,7537617,Wednesday,Rainy,Yes,No,25.3,Low
+Kerala,7537617,Thursday,Sunny,Yes,No,35.3,Low
+Kerala,7537617,Thursday,Cloudy,Yes,No,35.3,Low
+Kerala,7537617,Thursday,Rainy,Yes,No,25.3,Low
+Kerala,7537617,Friday,Sunny,Yes,No,45.3,Medium
+Kerala,7537617,Friday,Cloudy,Yes,No,45.3,Medium
+Kerala,7537617,Friday,Rainy,Yes,No,35.3,Low
+Kerala,7537617,Saturday,Sunny,Yes,No,45.3,Medium
+Kerala,7537617,Saturday,Cloudy,Yes,No,45.3,Medium
+Kerala,7537617,Saturday,Rainy,Yes,No,35.3,Low
+Kerala,7537617,Sunday,Sunny,Yes,No,55.3,Medium
+Kerala,7537617,Sunday,Cloudy,Yes,No,55.3,Medium
+Kerala,7537617,Sunday,Rainy,Yes,No,45.3,Medium
+Kerala,7537617,Monday,Sunny,No,Yes,40.3,Medium
+Kerala,7537617,Monday,Cloudy,No,Yes,40.3,Medium
+Kerala,7537617,Monday,Rainy,No,Yes,30.3,Low
+Kerala,7537617,Tuesday,Sunny,No,Yes,40.3,Medium
+Kerala,7537617,Tuesday,Cloudy,No,Yes,40.3,Medium
+Kerala,7537617,Tuesday,Rainy,No,Yes,30.3,Low
+Kerala,7537617,Wednesday,Sunny,No,Yes,40.3,Medium
+Kerala,7537617,Wednesday,Cloudy,No,Yes,40.3,Medium
+Kerala,7537617,Wednesday,Rainy,No,Yes,30.3,Low
+Kerala,7537617,Thursday,Sunny,No,Yes,40.3,Medium
+Kerala,7537617,Thursday,Cloudy,No,Yes,40.3,Medium
+Kerala,7537617,Thursday,Rainy,No,Yes,30.3,Low
+Kerala,7537617,Friday,Sunny,No,Yes,50.3,Medium
+Kerala,7537617,Friday,Cloudy,No,Yes,50.3,Medium
+Kerala,7537617,Friday,Rainy,No,Yes,40.3,Medium
+Kerala,7537617,Saturday,Sunny,No,Yes,50.3,Medium
+Kerala,7537617,Saturday,Cloudy,No,Yes,50.3,Medium
+Kerala,7537617,Saturday,Rainy,No,Yes,40.3,Medium
+Kerala,7537617,Sunday,Sunny,No,Yes,60.3,Medium
+Kerala,7537617,Sunday,Cloudy,No,Yes,60.3,Medium
+Kerala,7537617,Sunday,Rainy,No,Yes,50.3,Medium
+Kerala,7537617,Monday,Sunny,Yes,Yes,50.3,Medium
+Kerala,7537617,Monday,Cloudy,Yes,Yes,50.3,Medium
+Kerala,7537617,Monday,Rainy,Yes,Yes,40.3,Medium
+Kerala,7537617,Tuesday,Sunny,Yes,Yes,50.3,Medium
+Kerala,7537617,Tuesday,Cloudy,Yes,Yes,50.3,Medium
+Kerala,7537617,Tuesday,Rainy,Yes,Yes,40.3,Medium
+Kerala,7537617,Wednesday,Sunny,Yes,Yes,50.3,Medium
+Kerala,7537617,Wednesday,Cloudy,Yes,Yes,50.3,Medium
+Kerala,7537617,Wednesday,Rainy,Yes,Yes,40.3,Medium
+Kerala,7537617,Thursday,Sunny,Yes,Yes,50.3,Medium
+Kerala,7537617,Thursday,Cloudy,Yes,Yes,50.3,Medium
+Kerala,7537617,Thursday,Rainy,Yes,Yes,40.3,Medium
+Kerala,7537617,Friday,Sunny,Yes,Yes,60.3,Medium
+Kerala,7537617,Friday,Cloudy,Yes,Yes,60.3,Medium
+Kerala,7537617,Friday,Rainy,Yes,Yes,50.3,Medium
+Kerala,7537617,Saturday,Sunny,Yes,Yes,60.3,Medium
+Kerala,7537617,Saturday,Cloudy,Yes,Yes,60.3,Medium
+Kerala,7537617,Saturday,Rainy,Yes,Yes,50.3,Medium
+Kerala,7537617,Sunday,Sunny,Yes,Yes,70.3,High
+Kerala,7537617,Sunday,Cloudy,Yes,Yes,70.3,High
+Kerala,7537617,Sunday,Rainy,Yes,Yes,60.3,Medium
+Karnataka,254000000,Monday,Sunny,No,No,54.7,Medium
+Karnataka,254000000,Monday,Cloudy,No,No,54.7,Medium
+Karnataka,254000000,Monday,Rainy,No,No,44.7,Medium
+Karnataka,254000000,Tuesday,Sunny,No,No,54.7,Medium
+Karnataka,254000000,Tuesday,Cloudy,No,No,54.7,Medium
+Karnataka,254000000,Tuesday,Rainy,No,No,44.7,Medium
+Karnataka,254000000,Wednesday,Sunny,No,No,54.7,Medium
+Karnataka,254000000,Wednesday,Cloudy,No,No,54.7,Medium
+Karnataka,254000000,Wednesday,Rainy,No,No,44.7,Medium
+Karnataka,254000000,Thursday,Sunny,No,No,54.7,Medium
+Karnataka,254000000,Thursday,Cloudy,No,No,54.7,Medium
+Karnataka,254000000,Thursday,Rainy,No,No,44.7,Medium
+Karnataka,254000000,Friday,Sunny,No,No,64.7,Medium
+Karnataka,254000000,Friday,Cloudy,No,No,64.7,Medium
+Karnataka,254000000,Friday,Rainy,No,No,54.7,Medium
+Karnataka,254000000,Saturday,Sunny,No,No,64.7,Medium
+Karnataka,254000000,Saturday,Cloudy,No,No,64.7,Medium
+Karnataka,254000000,Saturday,Rainy,No,No,54.7,Medium
+Karnataka,254000000,Sunday,Sunny,No,No,74.7,High
+Karnataka,254000000,Sunday,Cloudy,No,No,74.7,High
+Karnataka,254000000,Sunday,Rainy,No,No,64.7,Medium
+Karnataka,254000000,Monday,Sunny,Yes,No,64.7,Medium
+Karnataka,254000000,Monday,Cloudy,Yes,No,64.7,Medium
+Karnataka,254000000,Monday,Rainy,Yes,No,54.7,Medium
+Karnataka,254000000,Tuesday,Sunny,Yes,No,64.7,Medium
+Karnataka,254000000,Tuesday,Cloudy,Yes,No,64.7,Medium
+Karnataka,254000000,Tuesday,Rainy,Yes,No,54.7,Medium
+Karnataka,254000000,Wednesday,Sunny,Yes,No,64.7,Medium
+Karnataka,254000000,Wednesday,Cloudy,Yes,No,64.7,Medium
+Karnataka,254000000,Wednesday,Rainy,Yes,No,54.7,Medium
+Karnataka,254000000,Thursday,Sunny,Yes,No,64.7,Medium
+Karnataka,254000000,Thursday,Cloudy,Yes,No,64.7,Medium
+Karnataka,254000000,Thursday,Rainy,Yes,No,54.7,Medium
+Karnataka,254000000,Friday,Sunny,Yes,No,74.7,High
+Karnataka,254000000,Friday,Cloudy,Yes,No,74.7,High
+Karnataka,254000000,Friday,Rainy,Yes,No,64.7,Medium
+Karnataka,254000000,Saturday,Sunny,Yes,No,74.7,High
+Karnataka,254000000,Saturday,Cloudy,Yes,No,74.7,High
+Karnataka,254000000,Saturday,Rainy,Yes,No,64.7,Medium
+Karnataka,254000000,Sunday,Sunny,Yes,No,84.7,High
+Karnataka,254000000,Sunday,Cloudy,Yes,No,84.7,High
+Karnataka,254000000,Sunday,Rainy,Yes,No,74.7,High
+Karnataka,254000000,Monday,Sunny,No,Yes,69.7,Medium
+Karnataka,254000000,Monday,Cloudy,No,Yes,69.7,Medium
+Karnataka,254000000,Monday,Rainy,No,Yes,59.7,Medium
+Karnataka,254000000,Tuesday,Sunny,No,Yes,69.7,Medium
+Karnataka,254000000,Tuesday,Cloudy,No,Yes,69.7,Medium
+Karnataka,254000000,Tuesday,Rainy,No,Yes,59.7,Medium
+Karnataka,254000000,Wednesday,Sunny,No,Yes,69.7,Medium
+Karnataka,254000000,Wednesday,Cloudy,No,Yes,69.7,Medium
+Karnataka,254000000,Wednesday,Rainy,No,Yes,59.7,Medium
+Karnataka,254000000,Thursday,Sunny,No,Yes,69.7,Medium
+Karnataka,254000000,Thursday,Cloudy,No,Yes,69.7,Medium
+Karnataka,254000000,Thursday,Rainy,No,Yes,59.7,Medium
+Karnataka,254000000,Friday,Sunny,No,Yes,79.7,High
+Karnataka,254000000,Friday,Cloudy,No,Yes,79.7,High
+Karnataka,254000000,Friday,Rainy,No,Yes,69.7,Medium
+Karnataka,254000000,Saturday,Sunny,No,Yes,79.7,High
+Karnataka,254000000,Saturday,Cloudy,No,Yes,79.7,High
+Karnataka,254000000,Saturday,Rainy,No,Yes,69.7,Medium
+Karnataka,254000000,Sunday,Sunny,No,Yes,89.7,High
+Karnataka,254000000,Sunday,Cloudy,No,Yes,89.7,High
+Karnataka,254000000,Sunday,Rainy,No,Yes,79.7,High
+Karnataka,254000000,Monday,Sunny,Yes,Yes,79.7,High
+Karnataka,254000000,Monday,Cloudy,Yes,Yes,79.7,High
+Karnataka,254000000,Monday,Rainy,Yes,Yes,69.7,Medium
+Karnataka,254000000,Tuesday,Sunny,Yes,Yes,79.7,High
+Karnataka,254000000,Tuesday,Cloudy,Yes,Yes,79.7,High
+Karnataka,254000000,Tuesday,Rainy,Yes,Yes,69.7,Medium
+Karnataka,254000000,Wednesday,Sunny,Yes,Yes,79.7,High
+Karnataka,254000000,Wednesday,Cloudy,Yes,Yes,79.7,High
+Karnataka,254000000,Wednesday,Rainy,Yes,Yes,69.7,Medium
+Karnataka,254000000,Thursday,Sunny,Yes,Yes,79.7,High
+Karnataka,254000000,Thursday,Cloudy,Yes,Yes,79.7,High
+Karnataka,254000000,Thursday,Rainy,Yes,Yes,69.7,Medium
+Karnataka,254000000,Friday,Sunny,Yes,Yes,89.7,High
+Karnataka,254000000,Friday,Cloudy,Yes,Yes,89.7,High
+Karnataka,254000000,Friday,Rainy,Yes,Yes,79.7,High
+Karnataka,254000000,Saturday,Sunny,Yes,Yes,89.7,High
+Karnataka,254000000,Saturday,Cloudy,Yes,Yes,89.7,High
+Karnataka,254000000,Saturday,Rainy,Yes,Yes,79.7,High
+Karnataka,254000000,Sunday,Sunny,Yes,Yes,99.7,High
+Karnataka,254000000,Sunday,Cloudy,Yes,Yes,99.7,High
+Karnataka,254000000,Sunday,Rainy,Yes,Yes,89.7,High
